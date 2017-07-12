@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Cateter</string>
+    <string name="higiene_das_maos">
+        <b>Higiene das Mãos</b>
+        \n\nVocê sabia que higienizar as mãos é a medida individual mais simples e menos dispendiosa
+        para prevenir a propagação das infecções relacionadas à assistência à saúde?
+        \n\n<b>Então nunca deixe de fazê-la!!!!</b>
+
+        \n\nNo caso do manuseio do CVC realize a higienização de suas mãos antes e depois de
+        qualquer tipo de manipulação do dispositivo (inserção, remoção, manipulação ou troca do
+        curativo).
+        \n\nA higienização das mãos pode ser realizada utilizando dois produtos:
+    </string>
+    <string name="agua_sabonete">A lavagem das mãos deve ser realizada quando houver sujidade
+        visível das mãos ou quando contaminadas com sangue e outros fluídos corporais.
+    \n\nPasso a passo da lavagem das mãos:</string>
+    <string name="alcool">Pode-se usar preparação alcoólica para higienização das mãos quando as
+        mesmas não estiverem visivelmente sujas.
+        \n\nPasso-a-passo da higienização das mãos com preparação alcoólica:</string>
+    <string name="cateteres">Cateteres venosos centrais (CVC) são dispositivos utilizados para infusão de fluídos cuja sua ponta localiza-se numa veia de grosso calibre.  Normalmente esta veia é a veia cava ou a junção cavoatrial (junção entre veia cava e átrio direito), situada em região torácica, como apresentado na imagem abaixo:</string>
+    <string name="cateteres2">Mas atenção:
+        \n\nOutros locais também podem comportar a ponta do cateter, por exemplo o átrio direito, o que é muito comum entre os pacientes portadores do Cateter de Shilley  - utilizado para realização de hemodiálise e que necessita de alto fluxo sanguíneo.
+</string>
+    <string name="cateteres3">Os materiais utilizados na fabricação dos cateteres influenciam diretamente na ocorrência das complicações.  Os materiais mais comuns de fabricação de cateteres são o poliuretano e silicone. Outros materiais são também utilizados, mas com menos frequência, como a poliamida, o poliéster e o politetrafluoretileno.</string>
+    <string name="poliuretano">Os cateteres flexíveis, como os de poliuretano são associados a
+        menores complicações infecciosas e contribuem significativamente para a redução de flebites.
+        \n\n<b>Por que?</b>
+        \nA superfície lisa do poliuretano minimiza a adesão bacteriana, a formação de biofilme e,
+        consequentemente, as infecções de corrente sanguínea relacionadas ao uso do cateter.
+        Além disso, permite a mobilidade do paciente quando inserido em articulações,
+        reduzindo assim o risco de flebite mecânica.
+    \n\n<b>Importante Saber:</b>
+        \nCateteres de Poliuretano não devem permanecer no interior de incubadoras e berços aquecidos
+        durante o processo de escolha da veia e antissepsia da pele, pois a exposição à temperatura
+        desses ambientes poderá deixá-los mais flexíveis e dificultar sua inserção.
+    </string>
+
+    <string name="silicone">
+        O silicone é comumente utilizado em cateteres de longa duração como PICC, cateteres tuneilizados e totalmente implantáveis, mas também em cateteres venosos centrais temporários.
+        \nÉ considerado um material mais resistente a dobras, mais flexível e com maior estabilidade a longo prazo quando comparado aos cateteres de poliuretano.
+        \nEste material tem estabilidade térmica, química e enzimática, porém apresenta resistência à pressão limitada, necessitando de cuidados especiais quando usado em cateteres centrais de inserção periférica.
+        \n\n<b>Atenção:</b> estes cateteres são frágeis e por isso devem ser manipulados com cuidado. Pinças, clamps e instrumentos cortantes podem danificá-lo.
+        \n\n<b>Atenção:</b>estes cateteres não podem ser conectados a bombas de alta pressão, como as utilizadas para a administração de contraste.
+    </string>
+
+    <string name="cateteres4"><b>Curta Permanência</b>
+        \n\nSão aqueles inseridos para tratamentos de 21 dias ou menos. São inserido percutaneamente em veias centrais (jugulares internas, femorais ou subclávias) e podem variar quanto a quantidade de lúmens, desde um até três lúmens.
+        É o tipo de CVC mais utilizado.
+    </string>
+    <string name="cateteres5">Indicações:
+    \n\n-Pacientes sem condições de acesso periférico e que necessitem de 21 ou menos dias de terapia
+    endovenosa.
+    \n-Necessidade de monitoração hemodinâmica (medida PVC).
+    \n-Administração rápida de drogas, volume e derivados em pacientes instáveis hemodinamicamente ou
+    \n-que possam evoluir para instabilidade.
+    \n-Acesso imediato para hemodiálise.
+    \n-Administração de soluções que não podem ser administradas por via periférica.
+    \n-Administração concomitante de drogas incompatíveis (por meio de cateter com múltiplos lúmens).
+        \n\n\n<b>PICC</b>
+        \nÉ um cateter venoso central inserido em uma veia periférica, por exemplo, veia basílica, veia safena, entre outras.
+        \n\nEste tipo de cateter pode ser inserido por enfermeiros, desde que os mesmos tenham devida qualificação para tal prática.
+        \n\nTambém podem variar conforme seu número de vias, podem ser mono, duplo ou triplo lúmen.
+
+    </string>
+
+    <string name="cateteres6">Os sítios de inserção podem variar conforme idade do paciente, por exemplo:
+        \n\nEm pacientes adultos: dar preferência pela veia basílica, cefálica e braquial.
+        \n\nEm pacientes pediátricos e neonatais: podem ser consideradas as veias axilares, veia temporal e auricular posterior (cabeça) e veia safena e poplítea (membros inferiores).
+
+        <b>Cateter semi-implantáveis ou tunelizados</b>
+        \nEles podem ser de lúmen único, duplo ou triplo.
+        \nSão implantados cirurgicamente, com um túnel subcutâneo e um “cuff de dracon” próximo ao sítio de exteriorização, que inibe a migração
+        de micro-organismos e estimula a aderência ao tecido subjacente, selando o túnel.
+        \n\nSua indicação principal são os pacientes onco-hematológicos,  portadores de insuficiência renal (diálise programada por mais de 21 dias) e em pacientes em nutrição parenteral prolongada.
+        \n\nEstes cateteres podem permanecer por meses ou até mesmo anos.
+        \n\nPARTICULARIDADE: após a cicatrização do óstio (em média de 2-4 semanas) pode-se manter o sítio de inserção descoberto.
+        \n\nSão exemplos de cateteres tunelizados: cateter de Hickman e Broviac.
+
+
+    </string>
+    <string name="cateteres7">
+        <b>Cateter Totalmente Implantável</b>
+        \n\nTambém conhecido como Port.
+        \nÉ implantado cirurgicamente e acessado por punção através da pele íntegra; possui um reservatório subcutâneo com septo auto-selante em um túnel abaixo da pele.
+        \n\nSão recomendados para pacientes onco-hematológicos ou em nutrição parenteral, além de outras indicações que necessitem de acesso seguro por períodos prolongados.
+        \n\nTambém podem permanecer por meses e anos.
+        \n\nLocais de inserção: os reservatórios são implantados em uma loja subcutânea, geralmente na região peitoral entre o esterno e o mamilo. A escolha faz-se entre veia jugular ou subclávia.
+        \n\nA punção do reservatório deve ser realizada com agulha angulada própria para uso na membrana do reservatório (agulha tipo Huber).
+        \n\nNão utilize outras agulhas para punção!
+
+    </string>
+    <string name="cateteres8">
+        A punção do cateter totalmente implantado é de responsabilidade do profissional enfermeiro.
+        \n\nDurante a mesma, recomenda-se utilizar máscara cirúrgica (profissional e paciente), luvas estéreis e obedecer a técnica asséptica.
+        \n\nPara antissepsia da pele, utilizar Gliconato de Clorexidina Alcoólica 0,5% , realizar desinfecção da pele a ser puncionada por no mínimo 30 segundos, realizando movimentos de vai e vem. Após, deixar a mesma secar espontaneamente para então proceder a punção do reservatório - a ser realizada com ângulo de 90°.
+        \n\nA agulha deve ser trocada a cada 7 dias, e deve ser protegida por cobertura estéril.
+
+    </string>
+</resources>
