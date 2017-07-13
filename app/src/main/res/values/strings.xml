@@ -244,6 +244,54 @@
         prover a infusão de substâncias endovenosas.
         \n\nExemplos de componentes de um sistema de infusão são: dânulas, extensores, perfusores e
         equipos.
+        \n\nUma das principais vias de entrada de microorganismos na corrente sanguínea é exatamente através destas conexões das linhas de infusão.
+        \nPor isso, faz-se necessária a desinfecção de todas as conexões e conectores valvulados com solução antisséptica à base de álcool, com movimentos aplicados de forma a gerar fricção mecânica, de 5 a 15 segundos previamente ao acesso aos mesmos.
+        \n\n<b>Conectores sem agulhas</b>
+        \n\nSão dispositivos que mantém os sistemas de infusão fechados.
+        \nAtualmente, são recomendados preferencialmente até ao uso de dânulas.
+        \nRecomenda-se que estes sejam transparentes, para permitir a visualização de seu interior e evitar o acúmulo de substâncias que possam aumentar o risco de infecções de correntes sanguíneas.
+
+
+    </string>
+    <string name="infusao2">Porque utilizar?
+        \n\n - reduzem o risco de obstrução do cateter;
+        \n - diminuir risco de infecção de corrente sanguínea uma vez que mantém sistema fechado;
+        \n - proporcionam maior segurança durante o manuseio do cateter.
+
+        \n\nComo utilizar?
+        \n\n - Realizar a desinfecção dos conectores antes de cada acesso ou manipulação com solução antisséptica à base de álcool.
+        \n - os conectores devem ser trocados imediatamente em caso de desconexão do cateter ou sistema de infusão, presença de sangue ou outra sujidade.
+        \n - Trocar os conectores junto com as trocas do sistema de infusão.
+
+        \n\nCaso seja necessária a utilização das dânulas, seguir a seguinte recomendação:
+        \n\n - trocar as dânulas junto com o sistema de infusão.
+        \n - possuir sistema de conexão luer lock.
+        \n - Utilizar tampas estéreis novas a cada uso da vida.
+
+
+</string>
+    <string name="infusao3">A troca dos equipos e dispositivos complementares é baseada em alguns
+        fatores, como tipo de solução utilizada, frequência da infusão (contínuo ou intermitente),
+        suspeita de contaminação ou quando a integridade do produto ou sistema estiver comprometida.
+        \n\nOs equipos e dispositivos complementares devem ser trocados sempre nas trocas dos cateteres venosos.
+        \n\nOs equipos e dispositivos complementares devem ser do tipo luer lock, para garantir injeção segura e evitar desconexões.
+        \n\nMinimizar o uso de equipos e extensões com vias adicionais. Cada via é uma potencial fonte de contaminação.
+
+        \n\nSistemas de infusões contínuas devem ser trocados a cada 96 horas.
+        \nSistemas de infusões intermitentes devem ser trocados a cada 24 horas.
+
+        \n\nCaso seja necessária a desconexão de algum equipo, você deve utilizar uma capa protetora estéril (tampinha) e não agulhas.
+
+        \n\nIMPORTANTE:
+        \né de extrema importância que você oriente sua equipe a datar o sistema de infusão.
+        \nisso facilita o controle diário da necessidade de troca do mesmo, portanto é necessário
+        que o sistema infusional seja datado, preferencialmente com a data em que foi realizada a troca do sistema.
+        \n\nPara infusões de NPT o equipo e conector sem agulha deve ser trocado a cada bolsa.
+        \n\nPara infusões de soluções lipídicas a troca deve ser realizada a cada 12 horas.
+        \n\nNas infusões de Propofol recomenda-se a troca do sistema infusional de 6-12 horas (o que varia de acordo com o fabricante).
+        \n\nPara infusão de hemoderivados deve-se proceder a troca do sistema de infusão a cada bolsa.
+        \n\nTrocar equipos de sistema fechado de monitorização hemodinâmica e pressão arterial invasiva a cada 96 horas.
+
 
     </string>
 
