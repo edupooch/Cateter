@@ -136,7 +136,115 @@
         \nPara cateteres inseridos segue a mesma orientação de troca de cobertura - conforme material utilizado (gaze e fita estéril ou membrana transparente semipermeável).
     </string>
 
-    <string name="troca" >Para realizar a troca do curativo você precisará:
+    <string name="troca" formatted="false"><b>Para realizar a troca do curativo você precisará:</b>
+        \n\n- 1 almotolia de Clorexidina 0,5% fechada;
+        \n- Mesinha auxiliar;
+        \n- Produto utilizado para limpeza de superfícies (multibac, álcool ou outra padronizado no seu local de atuação));
+        \n- Máscaras;
+        \n- 2 pares de luvas;
+        \n- Kit curativo ou 1 par de luva estéril;
+        \n- 2 pacotes de gaze;
+        \n- Curativo;
+        \n- Dispositivo de fixação (caso não esteja fixado com sutura);
+        \n- Swab de álcool 70%;
+        \n- Sachê de removedor de adesivo (caso disponível);
+        \n- Protetor cutâneo (caso disponível);
+        \n- Álcool gel;
+        \n- Saquinho para lixo.
+        \n\n<b>Procedimento:</b>
+     \n\n1º Apresente-se ao paciente e informe o procedimento que irá realizar.
+        \n\n2º Separe seu material.
+        \n\n3º Higienize a mesa auxiliar que usará para disposição dos materiais.
+        \n\n4º Higienize suas mãos.
+        \n\n5º Coloque a máscara em você e no paciente.
+        \n\n6º Abra o kit de curativo com cuidado para não contaminar seu interior, abra os seguintes materiais dentro do mesmo: gaze, curativo e o fixador do dispositivo.
+        \n\n7° Posicione o paciente de maneira que consiga acessar a região de inserção do curativo e que também mantenha o conforto do mesmo.
+        \n\n8° Realize a antissepsia da almotolia de Clorexidina Alcoólica 0,5% utilizando o swab alcoólico.
+        \n\n9º Deixe próximo a você o saquinho para desprezar os materiais contaminados.
+        \n\n10° Higienize suas mãos novamente.
+        \n\n11° Calce as luvas de procedimento.
+        \n\n12° Utilizando o swab contendo o removedor de adesivo proceda a remoção do mesmo - primeiramente iniciando pelas laterais, sentido ao centro.
+        \n\n13° Removido o curativo, realize a retirada do fixador do dispositivo (caso haja).
+        \n\n14° Retire as luvas e higienize novamente suas mãos.
+        \n\n15° Utilizando as pinças do kit do curativo realize a limpeza do sítio de inserção e da área ao redor do mesmo - faça movimentos de vai e vem, limpando cada área por no mínimo 30 segundos.
+        \n\n16° Deixe secar totalmente a Clorexidina Alcoólica 0,5%..
+        \n\n17° Aplique o protetor cutâneo sob a área que será coberta com o curativo e espere o mesmo secar. Importante: não aplique o protetor cutâneo sob a área de inserção do cateter. .
+        \n\n18° Instale o dispositivo de fixação de cateter.
+        \n\n19° Proceda a aplicação da cobertura;
+        \n\n20° Retire as luvas e higienize as mãos.
+        \n\n21° Realize a identificação do curativo - coloque a data de realização do curativo e o seu nome.
         </string>
+
+    <string name="cobertura3"> Caso você não tenha disponível o kit de curativo com as pinças
+        necessárias para a realização do curativo, é possível realizá-lo com o uso de luvas estéreis.
+        Desta maneira, você estará mantendo a técnica asséptica.
+        <b>\n\nOrientações durante o banho</b>
+        \n\nDurante o banho é importante proteger o sítio de inserção e as conexões com plástico ou outro material impermeável.
+        \n\nNão esqueça que mesmo o curativo realizado com membrana transparente semipermeável deve ser devidamente protegido.
+
+
+</string>
+    <string name="scrub">Uma das medidas mais eficientes de manutenção de cateteres venosos centrais
+        é a desinfecção dos hubs (canhões), dânulas e conectores antes da administração de produtos
+        endovenosos.
+        \n\n<b>Como realizar o scrub de hub?</b>
+        \n\nHigienize suas mãos.
+        \nCalce luvas de procedimento.
+        \nEsfregue adequadamente o hub com solução alcoólica 70% por 5-15 segundos, realizando momentos de torção, gerando a fricção.
+        \nCertifique-se de esfregar também a parte superior do hub, não apenas suas laterais.
+        \nDeixe o hub secar antes de acessá-lo.
+        \nImportante: impeça que ele toque qualquer coisa durante a secagem.
+
+        \n\nPara assistir a técnica de scrub the hub, acesse
+        \nhttps://www.youtube.com/watch?v=Zcjr-SLGCeU
+
+    </string>
+    <string name="aprendendo">Aprendendo sobre o tema</string>
+    <string name="flush" formatted="false">
+        Flushing é a lavagem do cateter com solução salina (SF 0,9%).
+        \n\nEsta “lavagem” tem como objetivo:
+        \n- Manter a permeabilidade do cateter
+        \n- Evitar o contato entre as soluções administradas
+        \n- Redução da infecção de corrente sanguínea através da diminuição da formação de biofilme.
+
+        \n\n<b>Quando deve ser feito:</b>
+        \nRealizar o flushing e aspiração para verificar o retorno de sangue antes de cada infusão para garantir o funcionamento do cateter e prevenir complicações, no caso de soluções contínuas recomenda-se realização do flushing de 12 em 12 horas.
+        \n\nUtilizar frascos de dose única ou seringas preenchidas para a prática de flushing do cateter.
+        \n\n - A utilização de seringas preenchidas podem reduzir o risco de ICSRC e otimizam o tempo da equipe assistencial.
+        \n - Não utilizar bolsas de soro como fonte para obter soluções para flushing.
+
+        <b>\n\nVolume do flushing</b>
+        \nUsar o volume mínimo equivalente a duas vezes o lúmen interno do cateter mais a extensão para flushing.
+        \nRecomenda-se o uso de 10 ml para cateteres centrais.
+
+        \n\n<b>Mas atenção:</b> alguns fatores devem ser considerados na escolha do volume e mesmo da realização do flushing, como tipo e tamanho do cateter, idade do paciente, restrição hídrica e tipo da terapia infusional.
+        \nInfusões de hemoderivados, NPT, contrastes e outras soluções viscosas podem requerer volumes maiores.
+
+        \n\nNUNCA force o flushing e nem utilize seringas que tenham diâmetro menor que 10ml.
+        \nCaso o CVC apresente qualquer resistência, reavalie possíveis clamps fechados, linhas dobradas ou dânulas (torneirinhas) que possam estar impedindo o bom fluxo do cateter.
+
+        \n\n<b>Pressão positiva:</b>
+        \nUtilize técnica de pressão positiva pois a mesma diminui o retorno de sangue para o lúmen do cateter.
+        \nFaça da seguinte maneira:
+        \n\nRealize o flushing → feche o clamp → desconecte a seringa.
+        \n\nEm casos de conectores sem agulha que trabalhem com pressão positiva o fechamento do clamp não é necessário
+
+        \n\n<b>Técninca pulsátil:</b>
+        \nTécnica também conhecida como técnica de push pause, refere-se a realização do flushing com breve pausas.
+        \nEssas pequenas pausas geram dentro do cateter um fluxo turbilhonado, que é mais efetivo na remoção dos depósitos sólidos no interior do cateter.
+        \n\nVídeo sobre flushing pulsátil
+        \nhttps://www.youtube.com/watch?v=WG-YCpAGgQQ
+
+
+
+
+    </string>
+    <string name="seringas">A escolha da seringa para manusear o CVC é muito importante.  Deve-se sempre avaliar a permeabilidade e funcionalidade do cateter utilizando seringas de diâmetro de 10 ml. Este diâmetro gera baixa pressão no lúmen do cateter, o que impede possíveis complicações, como por exemplo ruptura do cateter.</string>
+    <string name="infusao">O sistema infusional se refere a todos equipamentos utilizados para
+        prover a infusão de substâncias endovenosas.
+        \n\nExemplos de componentes de um sistema de infusão são: dânulas, extensores, perfusores e
+        equipos.
+
+    </string>
 
 </resources>

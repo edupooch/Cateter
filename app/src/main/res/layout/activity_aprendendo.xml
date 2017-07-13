@@ -17,12 +17,11 @@
         <LinearLayout
             android:id="@+id/layout_acao"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/card"
             android:orientation="vertical"
-            android:tag="layout_acao"
-            android:visibility="gone">
+            android:tag="layout_acao">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -352,7 +351,7 @@
         <LinearLayout
             android:id="@+id/layout_cobertura"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/card"
             android:orientation="vertical"
@@ -420,11 +419,170 @@
                     android:text="@string/troca" />
 
 
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/cobertura3"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_scrub"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/card"
+            android:orientation="vertical"
+            android:tag="layout_scrub">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/titulo_cards"
+                android:gravity="center_vertical"
+                android:onClick="abreParentLayout"
+                android:padding="10dp"
+                android:tag="barra_scrub">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_marginStart="4dp"
+                    android:text="Scrub the hub"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
 
             </LinearLayout>
 
-
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:padding="10dp"
+                android:text="@string/scrub"
+                android:textSize="16sp" />
         </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_flush"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/card"
+            android:orientation="vertical"
+            android:tag="layout_flush">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/titulo_cards"
+                android:gravity="center_vertical"
+                android:onClick="abreParentLayout"
+                android:padding="10dp"
+                android:tag="barra_flush">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_marginStart="4dp"
+                    android:text="Flushing do Cateter"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:padding="10dp"
+                android:text="@string/flush"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_seringas"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/card"
+            android:orientation="vertical"
+            android:tag="layout_seringas">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/titulo_cards"
+                android:gravity="center_vertical"
+                android:onClick="abreParentLayout"
+                android:padding="10dp"
+                android:tag="barra_seringas">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_marginStart="4dp"
+                    android:text="Seringas para o manuseio"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:padding="10dp"
+                android:text="@string/seringas"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_infusao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/card"
+            android:orientation="vertical"
+            android:tag="layout_infusao">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/titulo_cards"
+                android:gravity="center_vertical"
+                android:onClick="abreParentLayout"
+                android:padding="10dp"
+                android:tag="barra_infusao">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_marginStart="4dp"
+                    android:text="Sistemas de infusão"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:padding="10dp"
+                android:text="@string/infusao"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+
     </LinearLayout>
 
 </ScrollView>
