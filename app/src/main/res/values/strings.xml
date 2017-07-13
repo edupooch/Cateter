@@ -96,4 +96,47 @@
         \n\nA agulha deve ser trocada a cada 7 dias, e deve ser protegida por cobertura estéril.
 
     </string>
+    <string name="estabiliza">
+        Estabilizar o cateter significa preservar a integridade do acesso, prevenir o deslocamento do dispositivo e sua perda.
+        \nA estabilização não deve interferir na avaliação e monitoramento do sítio de inserção ou dificultar/impedir a infusão da terapia.
+        \nEla deve ser realizada utilizando técnica asséptica.
+        \nÉ importante ressaltar que fitas adesivas não estéreis (esparadrapo comum e fitas microporosas não estéreis) não devem ser utilizadas para estabilização ou cobertura de cateteres.
+        \n\n<b>Por que?</b>
+        \nRolos de fitas adesivas não estéreis podem ser facilmente contaminadas com microrganismos patogênicos.
+        \n\n<b>E o uso de sutura?</b>
+        \nSuturas estão associadas a acidentes percutâneos, favorecem a formação de biofilme e aumentam o risco de IPCS.
+        \n\n<b>Então o que usar?</b>
+        \nAtualmente é preferível a utilização dos dispositivos de fixação sem sutura, que são dispositivos de tecido, isentos de látex, que fornecem a fixação do cateter, proporcionando conforto e segurança ao paciente.
+        \n\n<b>Como eles funcionam?</b>
+        \nOs fixadores de cateteres sem sutura são dispositivos estéreis que permitem a fixação do cateter através da adesão dos mesmos à pele do paciente, isto evita o movimentos de pistão e consequentes deslocamentos acidentais do cateter. Além disso, a área de fixação pode ser mudada conforme houver necessidade, é fácil de realizar sua troca e não acarreta em desconfortos.
+        \n\nOs dispositivos de fixação sem sutura evitam a ruptura em torno do local de entrada do cateter e podem diminuir o grau de colonização bacteriana. O uso de um dispositivo de fixação sem sutura também minimiza o risco de lesões provocadas por perfurocortantes ao profissional de saúde.
+        \nPara utilização dos mesmos, você deve primeiramente, proceder a antissepsia da pele (ver realização do curativo), quando a Clorexidina Alcoólica 0,5% estiver totalmente seca, proceder o encaixe das abas de sutura junto ao dispositivo de fixação.
+        \nApós deve-se fechar o dispositivo, de maneira que a aba de fixação fique presa. Agora você já pode realizar a fixação do dispositivo junto a pele do paciente, retirando as fitas que ficam na parte inferior do dispositivo, liberando sua cola adesiva.
+
+    </string>
+    <string name="cobertura">
+        O termo cobertura, refere-se ao curativo a ser realizado sobre o CVC.
+        \n\nOs propósitos de usar coberturas são:
+        \nProteger o sítio de inserção do cateter e
+        \nMinimizar a possibilidade de infecção.
+
+        \n\nOs tipos de cobertura são:
+        \n\n<b>Semioclusiva</b> – gaze e fita adesiva estéril
+        \nRefere-se a utilização de gaze e fita adesiva estéril.
+        \nOrienta-se o uso deste tipo de cobertura apenas em casos de sangramentos em sítio de inserção ou diaforese excessiva.
+        \nNestes casos, recomenda-se a troca da cobertura a cada 48 horas.
+
+        \n\n<b>Membrana transparente semipermeável</b>
+        \nNos casos em que se faz uso da cobertura transparente semipermeável recomenda-se a troca da mesma de 7/7 dias.
+
+    </string>
+    <string name="cobertura2">A cobertura deve ser trocada imediatamente se houver suspeita de contaminação e sempre quando úmida, solta, suja ou com a integridade comprometida.
+        \n\nImportante: manter técnica asséptica durante a troca.
+        \n\nNão se faz necessária a troca do curativo 24 horas após a inserção do cateter.
+        \nPara cateteres inseridos segue a mesma orientação de troca de cobertura - conforme material utilizado (gaze e fita estéril ou membrana transparente semipermeável).
+    </string>
+
+    <string name="troca" >Para realizar a troca do curativo você precisará:
+        </string>
+
 </resources>

@@ -117,7 +117,7 @@
         <LinearLayout
             android:id="@+id/layout_cateter"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/card"
             android:orientation="vertical"
@@ -303,6 +303,126 @@
                 android:layout_height="200dp"
                 android:layout_marginTop="15dp"
                 android:src="@drawable/img_cateter8" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_estabiliza"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/card"
+            android:orientation="vertical"
+            android:tag="layout_estabiliza">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/titulo_cards"
+                android:gravity="center_vertical"
+                android:onClick="abreParentLayout"
+                android:padding="10dp"
+                android:tag="barra_estabiliza">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_marginStart="4dp"
+                    android:text="Estabilização"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/estabiliza"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:src="@drawable/img_estab" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_cobertura"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/card"
+            android:orientation="vertical"
+            android:tag="layout_cobertura">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/titulo_cards"
+                android:gravity="center_vertical"
+                android:onClick="abreParentLayout"
+                android:padding="10dp"
+                android:tag="barra_cobertura">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_marginStart="4dp"
+                    android:text="Cobertura"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/text_cobertura"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/cobertura"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:src="@drawable/img_cobertura" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/cobertura2"
+                android:textSize="16sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="#394245"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#1c3546"
+                    android:padding="5dp"
+                    android:text=" REALIZANDO A TROCA DO CURATIVO CVC"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="@string/troca" />
+
+
+
+            </LinearLayout>
+
 
         </LinearLayout>
     </LinearLayout>
