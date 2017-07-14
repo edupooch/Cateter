@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".quiz.JogoActivity">
+
+
+    <LinearLayout
+        android:id="@+id/layout_game"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <TextView
+
+                android:id="@+id/text_num_pergunta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_marginStart="5dp"
+                android:textColor="#fff"
+                android:textSize="22sp" />
+
+           <TextView
+                android:id="@+id/text_pergunta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#fff"
+                android:textSize="28sp" />
+
+        </LinearLayout>
+
+        <GridView
+            android:id="@+id/grid_respostas"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:horizontalSpacing="5dp"
+            android:verticalSpacing="5dp" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bt_responde"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginEnd="25dp"
+        android:layout_marginStart="25dp"
+
+        android:background="@color/colorPrimaryDark"
+        android:text="Confirmar"
+        android:textColor="#fff" />
+
+</LinearLayout>

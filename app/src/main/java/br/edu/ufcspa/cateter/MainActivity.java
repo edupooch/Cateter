@@ -25,4 +25,18 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(MainActivity.this, AvaliandoActivity.class));
 
     }
+
+    public void iniciaOutrasInfo(View view) {
+        startActivity(new Intent(MainActivity.this, OutrasInfoActivity.class));
+
+    }
+
+    public void iniciaEducando(View view) {
+        startActivity(new Intent(MainActivity.this, EducandoActivity.class));
+    }
+
+    public void iniciaQuiz(View view) {
+        startActivity(new Intent(MainActivity.this, QuizActivity.class));
+
+    }
 }

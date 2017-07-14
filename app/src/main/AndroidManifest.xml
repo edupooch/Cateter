@@ -20,7 +20,14 @@
             android:name=".AprendendoActivity"
             android:label="@string/aprendendo" />
         <activity android:name=".IcsCvcActivity" />
-        <activity android:name=".AvaliandoActivity"></activity>
+        <activity android:name=".AvaliandoActivity" />
+        <activity android:name=".OutrasInfoActivity" />
+        <activity android:name=".EducandoActivity" />
+        <activity android:name=".QuizActivity"/>
+        <activity android:name=".quiz.JogoActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
     </application>
 
 </manifest>

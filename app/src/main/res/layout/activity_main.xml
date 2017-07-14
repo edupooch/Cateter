@@ -125,7 +125,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_weight="1"
                 android:background="@drawable/titulo_cards"
-                android:onClick="iniciaICS"
+                android:onClick="iniciaOutrasInfo"
                 android:orientation="vertical">
 
                 <ImageView
@@ -163,7 +163,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_weight="1"
                 android:background="@drawable/titulo_cards"
-                android:onClick="iniciaAprendendo"
+                android:onClick="iniciaEducando"
                 android:orientation="vertical">
 
                 <ImageView
@@ -194,7 +194,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_weight="1"
                 android:background="@drawable/titulo_cards"
-                android:onClick="iniciaICS"
+                android:onClick="iniciaQuiz"
                 android:orientation="vertical">
 
                 <ImageView

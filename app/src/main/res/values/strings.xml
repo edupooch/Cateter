@@ -356,4 +356,53 @@
         <b>\n\nd)O sistema de infusão esta datado, não há sujidade nas linhas, mas ocorreu acidentalmente a desconexão de duas destas linhas: </b>
         \nno caso de desconexão acidental você deve proceder a troca de todo sistema de infusão desconectado.
 </string>
+    <string name="outrasinfo">Caso o cateter não seja mais necessário, converse com a equipe médica objetivando a remoção do mesmo.
+        \n\nA via do acesso venoso central que se destina a infusão de NPT deve ser exclusiva.
+        \n\nNão esqueça que o preparo das medicações é um cuidado primordial para a manutenção do bom funcionamento do cateter. A mesma deve seguir técnica asséptica. Isso inclui a desinfecção do diafragma (borracha) de frascos-ampola e a própria ampola de vidro com álcool 70% antes de inserir uma agulha ou quebrar a ampola.
+        \n\nNão utilize seringas preenchidas para a diluição de medicações.
+        \n\nNão use ou guarde sobras de medicamentos parenterais, nem utilize bolsas de uso comum para obtenção de soluções (flushing, diluição de medicamentos).
+        \n\nProceda a reconstituição dos medicamentos imediatamente antes de sua administração.
+        \n\nCateteres de menor calibre causam menos flebite mecânica e menor obstrução do fluxo sanguíneo dentro do vaso. Um bom fluxo sanguíneo ajuda na distribuição dos medicamentos administrados e reduz o risco de flebite química.
+        \n\nA manipulação dos hubs do cateter é uma atividade de responsabilidade do enfermeiro, assim como a realização do curativo, punção do cateter totalmente implantável e instalação de algumas soluções parenterais.
+        \n\nFique atento durante a realização das coletas de sangue. Caso fique alguma sujidade sanguínea nos conectores sem agulha a sua troca faz-se necessário.
+        \n\nPara a coleta de hemoculturas, recomenda-se a troca prévia dos conectores sem agulha.
+        \n\nO uso de sistemas e seringas com conexão Luer Lock, ou seja, que necessitem do movimento de giro para realização da conexão, possibilita maior segurança durante a conexão. Desta forma, não existe a possibilidade de desconexão acidental.
+        \n\nCaso o cateter tenha sido inserido em situação de emergência ou sem a utilização de barreira máxima protetora o mesmo deve ser trocado para outro sítio em menos de 48 horas.
+        \n\nSe for necessário a remoção dos pelos próximos ao sítio de inserção, realize a tricotomia do local utilizando terouras ou tricotomizador elétrico, aparelhos de barbear aumentam o risco de infecção.
+
+        \n\n\n<b>Lock do Cateter com substâncias antimicrobianas</b>
+        \n\nA realização do lock (selamento) contendo substâncias com propriedades antimicrobianas em substituição a outros produtos desprovidos dessa ação (heparina e soro fisiológico 0,9%) para cateteres de longa permanência podem ser usados objetivando prevenir a formação de biofilmes e eliminar os já presentes no dispositivo → o que evita o desenvolvimento de ICSRC.
+        \nUm exemplo deste tipo de substância é a taurolidina - derivado da taurinamida, que exerce ação antibacteriana e antifúngica e tem menor toxicidade.
+        \nQuanto ao tempo de duração do lock com taurolidina ainda não há consenso quanto ao tempo que o mesmo deve permanecer nas vias do cateter para garantir eficácia da estratégia.
+
+    </string>
+    <string name="educando">
+        É de extrema importância a educação dos profissionais envolvidos no cuidado e manutenção dos CVC, desta maneira:
+        \n\n - Certifique-se que os mesmos tenham tido as orientações necessárias previamente ao manuseio dos mesmos.
+        \n\n - Avalie constantemente o conhecimento destes,, bem como a adesão às medidas recomendadas para o manuseio do cateter, isto pode ser um diferencial no cuidado ofertado pela sua equipe.
+        \n\n - Deixe sempre em local de fácil acesso as diretrizes do seu local de trabalho que dizem respeito a prevenção das IPCS e manuseio de cateter.
+
+        \n\nDentro deste momento de aprendizagem podem ser incluídas atividades teóricas e práticas utilizando diversos materiais para tais. Se possível, aplique questionários pré e pós teste para posteriormente poder mensurar o ganho educacional obtido.
+        \n\nQuando houver mudança de produtos é MUITO importante que a equipe seja novamente orientada.
+        \n\nE não esqueça: o paciente e sua família devem também ser empoderados sobre os cuidados com o cateter. Eduque-os quanto ao correto manuseio e estes se tornarão aliados neste cuidado.
+        \n\nAlém disso, ao seu lado sempre estarão o Controle de Infecção Hospitalar e caso seu local de atuação tenha, um time de acessos venosos.
+
+    </string>
+    <string name="proxima">Próxima</string>
+    <string name="atencao_sair">Atenção</string>
+    <string name="dialog_abandonar_voltar">Deseja abandonar o jogo?</string>
+    <string name="dialog_yes">Sim</string>
+    <string name="dialog_no">Não</string>
+
+    <string name="pergunta_1">Após a inserção do cateter venoso central, a indicação da troca do curativo faz-se após:</string>
+    <string name="pergunta_1_resposta_certa">7 dias, se realizado com filme estéril transparente</string>
+    <string name="pergunta_1_resposta_1">48 horas da inserção, se realizado com filme transparente estéril e o mesmo estiver íntegro e limpo</string>
+    <string name="pergunta_1_resposta_2">24 horas, a fim de avaliar inserção do mesmo;</string>
+    <string name="pergunta_1_resposta_3">Realizar a troca somente quando apresentar sujidade importante</string>
+
+    <string name="pergunta_2">Referente ao sistema de infusão, você considera importante que o mesmo seja devidamente identificado?</string>
+    <string name="pergunta_2_resposta_certa">Sim</string>
+    <string name="pergunta_2_resposta_2">Não</string>
+    <string name="finalizar_jogo">Finalizar jogo</string>
+
 </resources>
