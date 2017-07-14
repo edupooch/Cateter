@@ -294,5 +294,27 @@
 
 
     </string>
+    <string name="heparini">
+        Quando o cateter ou uma de suas vias não estiver sendo utilizada, deve-se proceder a heparinização, selamento ou salinização da mesma.
+        \nIsto vai variar conforme o protocolo institucional do seu local de atuação.
+        \n\nDe maneira geral, para cateteres valvulados (que contenham válvula que se abre/fecha sob pressão) o uso de heparina não se faz mais necessário, uma vez que não há retorno sanguíneo para o interior do mesmo.
+        \n\nPara os cateteres que tem ponta aberta, o uso da heparina ainda é comum, objetivando evitar a formação de coágulos de sangue no interior do cateter.
+        \n\nO selamento refere-se a utilização de substâncias com propriedades antibacterianas ou antifúngicas, já utilizadas em alguns hospitais regionais (ver Lock do cateter).
+
+    </string>
+    <string name="icscvc">Uma das maiores complicações associadas ao uso do cateter venoso central é a infecção de corrente sanguínea decorrente do uso do mesmo e estão intimamente relacionadas à assistência em saúde.</string>
+    <string name="icscvc2">
+        \n - Extraluminal
+        \n - Intraluminal
+        \n - Infusão de Soluções Contaminadas
+        \n - Disseminação hematogênica
+</string>
+    <string name="icscvc3" >A ICS está associada ao aumento da mortalidade, prolongamento do tempo de internação e custo hospitalares.
+        \n\nHá registro que dentro das unidades de terapia intensiva americanas a ICS pode chegar a 69% dos casos de óbito, no Brasil acredita-se que estes números sejam ainda mais expressivos.
+        \n\nEm relação aos custos, um estudo americano apontou um gasto extra de U$ 50.000 por episódio de infecção.
+
+        \n\nAtrasar a troca da cobertura quando a mesma já perdeu sua integridade pode estar associada ao aumento do risco de IPCS.
+
+</string>
 
 </resources>

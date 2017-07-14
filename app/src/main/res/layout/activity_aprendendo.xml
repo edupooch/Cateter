@@ -547,7 +547,7 @@
         <LinearLayout
             android:id="@+id/layout_infusao"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/card"
             android:orientation="vertical"
@@ -612,7 +612,44 @@
                 android:textSize="16sp" />
         </LinearLayout>
 
+        <LinearLayout
+            android:id="@+id/layout_heparini"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/card"
+            android:orientation="vertical"
+            android:tag="layout_heparini">
 
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/titulo_cards"
+                android:gravity="center_vertical"
+                android:onClick="abreParentLayout"
+                android:padding="10dp"
+                android:tag="barra_heparini">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_marginStart="4dp"
+                    android:text="Heparinização, selamento ou salinização"
+                    android:textColor="#fff"
+                    android:textSize="15sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:padding="10dp"
+                android:text="@string/heparini"
+                android:textSize="16sp" />
+
+        </LinearLayout>
     </LinearLayout>
 
 </ScrollView>

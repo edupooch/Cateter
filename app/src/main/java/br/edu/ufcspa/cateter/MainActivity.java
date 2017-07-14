@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
     public void iniciaAprendendo(View view) {
         startActivity(new Intent(MainActivity.this, AprendendoActivity.class));
     }
+
+    public void iniciaICS(View view) {
+        startActivity(new Intent(MainActivity.this, AprendendoActivity.class));
+    }
 }

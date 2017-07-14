@@ -1,67 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp"
+    android:paddingEnd="8dp"
+    android:paddingStart="8dp"
+    android:paddingTop="16dp"
     tools:context="br.edu.ufcspa.cateter.MainActivity">
+
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="iniciaAprendendo"
-            android:background="#4b7e91">
+            android:layout_height="wrap_content">
 
-            <ImageView
-                android:layout_width="45dp"
-                android:layout_height="45dp"
-                android:background="#2a000000"
-                android:padding="12dp"
-                android:src="@drawable/icon_book"
-                android:tint="#dcdcdc" />
-
-            <TextView
-                android:layout_width="match_parent"
+            <LinearLayout
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginEnd="10dp"
-                android:layout_marginStart="10dp"
-                android:text="Aprendendo Sobre o Tema"
-                android:textSize="20sp"
-                android:textStyle="" />
-        </LinearLayout>
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/titulo_cards"
+                android:onClick="iniciaAprendendo"
+                android:orientation="vertical">
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:background="#4b916d">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="#2a000000"
+                    android:padding="15dp"
+                    android:src="@drawable/icon_book"
+                    android:tint="#dcdcdc" />
 
-            <ImageView
-                android:layout_width="45dp"
-                android:layout_height="45dp"
-                android:background="#2a000000"
-                android:padding="12dp"
-                android:src="@drawable/icon_book"
-                android:tint="#dcdcdc" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Aprendendo sobre o tema"
+                    android:textSize="18sp"
+                    android:textStyle="" />
+            </LinearLayout>
 
-            <TextView
-                android:layout_width="match_parent"
+            <LinearLayout
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginEnd="10dp"
-                android:layout_marginStart="10dp"
-                android:text="ICS/CVC"
-                android:textSize="20sp"
-                android:textStyle="" />
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/titulo_cards"
+                android:onClick="iniciaICS"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="#2a000000"
+                    android:padding="15dp"
+                    android:src="@drawable/icon_sangue"
+                    android:tint="#dcdcdc" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="ICS/CVC"
+                    android:textSize="18sp"
+                    android:textStyle="" />
+            </LinearLayout>
         </LinearLayout>
 
         <LinearLayout
