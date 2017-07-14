@@ -4,8 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:paddingEnd="8dp"
-    android:paddingStart="8dp"
+    android:paddingEnd="12dp"
+    android:paddingStart="12dp"
     android:paddingTop="16dp"
     tools:context="br.edu.ufcspa.cateter.MainActivity">
 
@@ -22,8 +22,8 @@
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:layout_marginStart="8dp"
+                android:layout_marginEnd="4dp"
+                android:layout_marginStart="4dp"
                 android:layout_weight="1"
                 android:background="@drawable/titulo_cards"
                 android:onClick="iniciaAprendendo"
@@ -53,8 +53,8 @@
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:layout_marginStart="8dp"
+                android:layout_marginEnd="4dp"
+                android:layout_marginStart="4dp"
                 android:layout_weight="1"
                 android:background="@drawable/titulo_cards"
                 android:onClick="iniciaICS"
@@ -85,102 +85,140 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:background="#4b7e91">
+            android:layout_marginTop="8dp">
 
-            <ImageView
-                android:layout_width="45dp"
-                android:layout_height="45dp"
-                android:background="#2a000000"
-                android:padding="12dp"
-                android:src="@drawable/icon_book"
-                android:tint="#dcdcdc" />
-
-            <TextView
-                android:layout_width="match_parent"
+            <LinearLayout
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginEnd="10dp"
-                android:layout_marginStart="10dp"
-                android:text="Avaliação de Cateteres"
-                android:textSize="20sp"
-                android:textStyle="" />
+                android:layout_marginEnd="4dp"
+                android:layout_marginStart="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/titulo_cards"
+                android:onClick="iniciaAvaliacao"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="#2a000000"
+                    android:padding="15dp"
+                    android:src="@drawable/icon_cateter"
+                    android:tint="#dcdcdc" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Avaliação de cateteres"
+                    android:textSize="18sp"
+                    android:textStyle="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="4dp"
+                android:layout_marginStart="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/titulo_cards"
+                android:onClick="iniciaICS"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="#2a000000"
+                    android:padding="15dp"
+                    android:src="@drawable/icon_escudo"
+                    android:tint="#dcdcdc" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Outras informações"
+                    android:textSize="18sp"
+                    android:textStyle="" />
+            </LinearLayout>
         </LinearLayout>
+
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:background="#4b916d">
+            android:layout_marginTop="8dp">
 
-            <ImageView
-                android:layout_width="45dp"
-                android:layout_height="45dp"
-                android:background="#2a000000"
-                android:padding="12dp"
-                android:src="@drawable/icon_book"
-                android:tint="#dcdcdc" />
-
-            <TextView
-                android:layout_width="match_parent"
+            <LinearLayout
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginEnd="10dp"
-                android:layout_marginStart="10dp"
-                android:text="Outras Informações"
-                android:textSize="20sp"
-                android:textStyle="" />
+                android:layout_marginEnd="4dp"
+                android:layout_marginStart="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/titulo_cards"
+                android:onClick="iniciaAprendendo"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="#2a000000"
+                    android:padding="15dp"
+                    android:src="@drawable/icon_maleta"
+                    android:tint="#dcdcdc" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Educando sua equipe"
+                    android:textSize="18sp"
+                    android:textStyle="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="4dp"
+                android:layout_marginStart="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/titulo_cards"
+                android:onClick="iniciaICS"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="#2a000000"
+                    android:padding="15dp"
+                    android:src="@drawable/icon_game"
+                    android:tint="#dcdcdc" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Quiz"
+                    android:textSize="18sp"
+                    android:textStyle="" />
+            </LinearLayout>
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:background="#4b7e91">
-
-            <ImageView
-                android:layout_width="45dp"
-                android:layout_height="45dp"
-                android:background="#2a000000"
-                android:padding="12dp"
-                android:src="@drawable/icon_book"
-                android:tint="#dcdcdc" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginEnd="10dp"
-                android:layout_marginStart="10dp"
-                android:text="Educando sua equipe"
-                android:textSize="20sp"
-                android:textStyle="" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:background="#4b916d">
-
-            <ImageView
-                android:layout_width="45dp"
-                android:layout_height="45dp"
-                android:background="#2a000000"
-                android:padding="12dp"
-                android:src="@drawable/icon_book"
-                android:tint="#dcdcdc" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginEnd="10dp"
-                android:layout_marginStart="10dp"
-                android:text="Quiz"
-                android:textSize="20sp"
-                android:textStyle="" />
-        </LinearLayout>
 
     </LinearLayout>
 </ScrollView>

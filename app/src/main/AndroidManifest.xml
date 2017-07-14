@@ -19,7 +19,8 @@
         <activity
             android:name=".AprendendoActivity"
             android:label="@string/aprendendo" />
-        <activity android:name=".IcsCvcActivity"></activity>
+        <activity android:name=".IcsCvcActivity" />
+        <activity android:name=".AvaliandoActivity"></activity>
     </application>
 
 </manifest>

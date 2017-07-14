@@ -309,12 +309,51 @@
         \n - Infusão de Soluções Contaminadas
         \n - Disseminação hematogênica
 </string>
-    <string name="icscvc3" >A ICS está associada ao aumento da mortalidade, prolongamento do tempo de internação e custo hospitalares.
+    <string name="icscvc3">A ICS está associada ao aumento da mortalidade, prolongamento do tempo de internação e custo hospitalares.
         \n\nHá registro que dentro das unidades de terapia intensiva americanas a ICS pode chegar a 69% dos casos de óbito, no Brasil acredita-se que estes números sejam ainda mais expressivos.
         \n\nEm relação aos custos, um estudo americano apontou um gasto extra de U$ 50.000 por episódio de infecção.
 
         \n\nAtrasar a troca da cobertura quando a mesma já perdeu sua integridade pode estar associada ao aumento do risco de IPCS.
 
 </string>
+    <string name="avaliando">A avaliação do sítio de inserção é um cuidado essencial da equipe de enfermagem.
+        \nRecomenda-se no mínimo que uma vez ao dia o sítio de inserção dos cateteres centrais seja avaliado, por meio de inspeção visual e palpação sobre o curativo intacto.
+        \n\nSe os pacientes tiverem hipersensibilidade no local de inserção, febre sem fonte óbvia ou outras manifestações que sugerem infecção local ou sangüínea, o curativo deve ser removido para permitir o exame completo do local
+        \n\nDurante a avaliação do cateter é importante que todo sistema infusional seja avaliado também.
+        \nPor exemplo, datas de equipos e conectores devem ser observadas, bem como horário de início das infusões.
+        \n\nSujidades nas linhas de infusão requerem a troca imediata dos mesmos.
 
+    </string>
+    <string name="avaliando2">A cobertura que você esta avaliando encontra-se:
+        <b>\n\na)Está parcialmente descolada, mas seca, limpa e o sítio de inserção não tem sinais flogísticos:</b>
+        \nDevido a cobertura estar descolando, recomenda-se a troca do curativo → ver troca do curativo.
+        <b>\n\nb) Está intacta, seca, limpa e o sítio de inserção esta apresentando eritema:</b>
+        \nVocê pode observar o eritema, não é necessária a troca do curativo, mas recomenda-se que você comunique a equipe médica quanto aos sinais flogísticos encontrados.
+        <b>\n\nc) A cobertura encontra-se bem aderida, seca e intacta, o sítio de inserção não apresenta sinais flogísticos:</b>
+        \nMantenha o mesmo curativo e continue avaliando-o diariamente.
+        <b>\n\nd) A cobertura encontra-se úmida, mesmo assim encontra-se aderida, íntegra e limpa:</b>
+        \nQuando a cobertura do cateter estiver úmida, é recomendada a troca do curativo, realize a educação do paciente e familiar quanto a necessidade de protegê-lo durante o banho.
+</string>
+
+    <string name="avaliando3">
+        <b>a) O curativo foi realizado com filme transparente semipermeável, esta datado, com data de última troca inferior a sete dias, o curativo não esta descolando e nem úmido:</b>
+        \nmantenha este curativo, sua troca deve ser realizada a cada 7 dias se a cobertura se mantiver nestas condições.
+        <b>\n\nb) A cobertura foi realizada com gaze e fita adesiva estéril, datado do dia anterior, mas apresenta sujidade sanguínea na gaze que esta sobre a inserção: </b>
+        \nneste caso você deve proceder a troca do curativo, não deixe para realizá-la posteriormente, isto poderá aumentar o risco de infecção relacionada ao cateter.
+        <b>\n\nc) A cobertura foi realizada com gaze e fita adesiva estéril, datado do dia atual, encontra-se limpo externamente, seca e intacta: </b>
+        \nmantenha este curativo por até 48 horas, mas observe possíveis sangramentos, úmidade e outras complicações as quais seja necessária a sua troca.
+        <b>\n\nd) Curativo realizado com filme transparente, seco, intacto, bem aderido, mas com data de 8 dias atrás:</b>
+        \na validade da cobertura com filme transparente é de 7 dias, você deve proceder a troca do curativo.
+    </string>
+
+    <string name="avaliando4">
+        <b>a)Todo o sistema infusional está datado e não há sinais de sujidade sanguínea: </b>
+        \nvocê deve manter o sistema infusão, não esqueça de observar as particularidade para troca de sistemas de infusões contínuas, intermitentes e as indicações especiais.
+        <b>\n\nb)Não há data nos sistemas de infusão ou nas soluções que estão sendo administradas: </b>
+        \nvocê deve proceder a troca de todo o sistema de infusão, mesmo que estas estejam limpas. É muito importante que o sistema de infusão seja datado, seguindo as orientações para cada solução administrada.
+        <b>\n\nc)Há sujidade sanguínea nas dânulas e conectores sem agulha, mas todo o sistema encontra-se dentro do prazo de validade: </b>
+        \nembora esteja datado corretamente você deve proceder a troca do sistema de infusão, uma vez que o acúmulo de sangue nas linhas de infusão pode aumentar consideravelmente o risco de infecção de corrente sanguínea.
+        <b>\n\nd)O sistema de infusão esta datado, não há sujidade nas linhas, mas ocorreu acidentalmente a desconexão de duas destas linhas: </b>
+        \nno caso de desconexão acidental você deve proceder a troca de todo sistema de infusão desconectado.
+</string>
 </resources>

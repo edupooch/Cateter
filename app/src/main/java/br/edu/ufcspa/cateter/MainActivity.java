@@ -18,6 +18,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void iniciaICS(View view) {
-        startActivity(new Intent(MainActivity.this, AprendendoActivity.class));
+        startActivity(new Intent(MainActivity.this, IcsCvcActivity.class));
+    }
+
+    public void iniciaAvaliacao(View view) {
+        startActivity(new Intent(MainActivity.this, AvaliandoActivity.class));
+
     }
 }
