@@ -102,52 +102,52 @@ public class JogoActivity extends AppCompatActivity {
             btResponde.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                        if (btResponde.getText().toString().contains("Confirmar")) {
-                            // MOSTRAR SE A RESPOSTA ESTÁ CERTA
+                    if (btResponde.getText().toString().contains("Confirmar")) {
+                        // MOSTRAR SE A RESPOSTA ESTÁ CERTA
 
-                            int respostaSelecionada = respostasAdapter.getSelectedPosition();
-                            if (respostaSelecionada == NENHUMA_RESPOSTA_SELECIONADA) {
-                                Toast.makeText(getActivity(), "Selecione alguma alternativa", Toast.LENGTH_LONG).show();
-                            } else {
-                                //VERIFICAR se o usuário acertou ou não
-                                btResponde.setText(R.string.proxima);
-                                bloqueiaRadios(gridRespostas);
-
-                                boolean acertou = pergunta.getRespostas().get(respostaSelecionada).isCerta();
-                                acertos[nPerguntaAtual] = acertou;
-                                Log.d("jogo", Arrays.toString(acertos));
-
-                                if (acertou) {
-                                    //o fundo da questao selecionada fica verde
-                                    View layout = getViewByPosition(respostaSelecionada, gridRespostas);
-                                    layout.setBackgroundResource(R.drawable.card_verde);
-                                } else {
-                                    //balança a tela
-                                    Animation animation = AnimationUtils.loadAnimation(getContext(), R.anim.shake);
-                                    rootView.findViewById(R.id.layout_game).startAnimation(animation);
-                                    //deixa o fundo da selecionada vermelho
-                                    int respostaCerta = getRespostaCerta(nPerguntaAtual);
-                                    View layoutSelecionado = getViewByPosition(respostaSelecionada, gridRespostas);
-                                    layoutSelecionado.setBackgroundResource(R.drawable.card_vermelho);
-                                    //o fundo da questão certa fica verde
-                                    View layoutCerta = getViewByPosition(respostaCerta, gridRespostas);
-                                    layoutCerta.setBackgroundResource(R.drawable.card_verde);
-                                }
-                            }
-
+                        int respostaSelecionada = respostasAdapter.getSelectedPosition();
+                        if (respostaSelecionada == NENHUMA_RESPOSTA_SELECIONADA) {
+                            Toast.makeText(getActivity(), "Selecione alguma alternativa", Toast.LENGTH_LONG).show();
                         } else {
-                            // O BOTÃO ESTÁ COM O TEXTO 'PRÓXIMA'
-                            int ultimaPergunta = listaPerguntas.size() - 1;
-                            Log.d("jogo", "n atual:" + nPerguntaAtual + " ultima: " + ultimaPergunta);
-                            if (nPerguntaAtual == ultimaPergunta) {
-                                Log.d("jogo", "atualizou o ultimo resultado");
-                                ResultadosJogoFragment.atualizaNota(); //atualiza a nota no fragment de resultado
+                            //VERIFICAR se o usuário acertou ou não
+                            btResponde.setText(R.string.proxima);
+                            bloqueiaRadios(gridRespostas);
+
+                            boolean acertou = pergunta.getRespostas().get(respostaSelecionada).isCerta();
+                            acertos[nPerguntaAtual] = acertou;
+                            Log.d("jogo", Arrays.toString(acertos));
+
+                            if (acertou) {
+                                //o fundo da questao selecionada fica verde
+                                View layout = getViewByPosition(respostaSelecionada, gridRespostas);
+                                layout.setBackgroundResource(R.drawable.card_verde);
+                            } else {
+                                //balança a tela
+                                Animation animation = AnimationUtils.loadAnimation(getContext(), R.anim.shake);
+                                rootView.findViewById(R.id.layout_game).startAnimation(animation);
+                                //deixa o fundo da selecionada vermelho
+                                int respostaCerta = getRespostaCerta(nPerguntaAtual);
+                                View layoutSelecionado = getViewByPosition(respostaSelecionada, gridRespostas);
+                                layoutSelecionado.setBackgroundResource(R.drawable.card_vermelho);
+                                //o fundo da questão certa fica verde
+                                View layoutCerta = getViewByPosition(respostaCerta, gridRespostas);
+                                layoutCerta.setBackgroundResource(R.drawable.card_verde);
                             }
-                            //Passa para a próxima página
-                            mViewPager.setCurrentItem(nPerguntaAtual + 1);
                         }
+
+                    } else {
+                        // O BOTÃO ESTÁ COM O TEXTO 'PRÓXIMA'
+                        int ultimaPergunta = listaPerguntas.size() - 1;
+                        Log.d("jogo", "n atual:" + nPerguntaAtual + " ultima: " + ultimaPergunta);
+                        if (nPerguntaAtual == ultimaPergunta) {
+                            Log.d("jogo", "atualizou o ultimo resultado");
+                            ResultadosJogoFragment.atualizaNota(); //atualiza a nota no fragment de resultado
+                        }
+                        //Passa para a próxima página
+                        mViewPager.setCurrentItem(nPerguntaAtual + 1);
                     }
-                });
+                }
+            });
             return rootView;
         }
 
@@ -169,11 +169,15 @@ public class JogoActivity extends AppCompatActivity {
          * @param gridView
          */
         private void bloqueiaRadios(GridView gridView) {
-            for (int j = 0; j < NUMERO_DE_ALTERNATIVAS; j++) {
-                View layout = getViewByPosition(j, gridView);
-                layout.setClickable(false);
-                View radioButton = layout.findViewWithTag(j);
-                radioButton.setClickable(false);
+            try {
+                for (int j = 0; j < NUMERO_DE_ALTERNATIVAS; j++) {
+                    View layout = getViewByPosition(j, gridView);
+                    layout.setClickable(false);
+                    View radioButton = layout.findViewWithTag(j);
+                    radioButton.setClickable(false);
+                }
+            } catch (IndexOutOfBoundsException e) {
+                e.printStackTrace();
             }
         }
 

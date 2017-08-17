@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Cateter</string>
+    <string name="app_name">Help Cateter</string>
     <string name="higiene_das_maos">
         <b>Higiene das Mãos</b>
         \n\nVocê sabia que higienizar as mãos é a medida individual mais simples e menos dispendiosa
@@ -397,12 +397,59 @@
     <string name="pergunta_1">Após a inserção do cateter venoso central, a indicação da troca do curativo faz-se após:</string>
     <string name="pergunta_1_resposta_certa">7 dias, se realizado com filme estéril transparente</string>
     <string name="pergunta_1_resposta_1">48 horas da inserção, se realizado com filme transparente estéril e o mesmo estiver íntegro e limpo</string>
-    <string name="pergunta_1_resposta_2">24 horas, a fim de avaliar inserção do mesmo;</string>
+    <string name="pergunta_1_resposta_2">24 horas, a fim de avaliar inserção do mesmo</string>
     <string name="pergunta_1_resposta_3">Realizar a troca somente quando apresentar sujidade importante</string>
 
     <string name="pergunta_2">Referente ao sistema de infusão, você considera importante que o mesmo seja devidamente identificado?</string>
     <string name="pergunta_2_resposta_certa">Sim</string>
-    <string name="pergunta_2_resposta_2">Não</string>
+    <string name="pergunta_2_resposta_1">Não</string>
+
+    <string name="pergunta_3">Caso você considere importante, quais os dados que devem constar nos sistemas de infusão?</string>
+    <string name="pergunta_3_resposta_certa">Somente a data em que foi realizada a troca é necessária</string>
+    <string name="pergunta_3_resposta_1">Data da troca, turno e nome do profissional responsável pela troca</string>
+    <string name="pergunta_3_resposta_2">Data do vencimento e turno</string>
+    <string name="pergunta_3_resposta_3">Somente a data de vencimento (próxima troca) é necessária </string>
+
+    <string name="pergunta_4">Os técnicos de enfermagem estão assegurados e respaldados para manusear os hubs dos cateteres.</string>
+    <string name="pergunta_4_resposta_certa">Falso</string>
+    <string name="pergunta_4_resposta_1">Verdadeiro</string>
+
+    <string name="pergunta_5">Os técnicos mesmo tendo respaldo para exercer tal cuidado, só podem manusear o hub do cateter quando esta atividade for delegada por um enfermeiro.</string>
+    <string name="pergunta_5_resposta_certa">Falso</string>
+    <string name="pergunta_5_resposta_1">Verdadeiro</string>
+
+    <string name="pergunta_6" formatted="false">Para a realização do curativo em cateter venoso central, pode-se utilizar Clorexidina Aquosa 0,2% para assepsia da pele ao redor do sítio de inserção e Clorexidina Alcoólica 0,5% no sítio de inserção.</string>
+    <string name="pergunta_6_resposta_certa">Falso</string>
+    <string name="pergunta_6_resposta_1">Verdadeiro</string>
+
+    <string name="pergunta_7">O curativo de cateter venoso central, preferencialmente deve ser realizado com o kit material estéril, mas na falta do mesmo, a técnica estéril pode ser mantida com a utilização de luvas estéreis.</string>
+    <string name="pergunta_7_resposta_certa">Verdadeiro</string>
+    <string name="pergunta_7_resposta_1">Falso</string>
+
+    <string name="pergunta_8">Marque a alternativa incorreta dentre as afirmações abaixo:</string>
+    <string name="pergunta_8_resposta_certa">A contaminação do dispositivo central pouco tem a ver com o trabalho efetuado pela enfermagem</string>
+    <string name="pergunta_8_resposta_1">Manter a integridade do cateter venoso central é parte fundamental da terapêutica proposta para o cuidado do paciente</string>
+    <string name="pergunta_8_resposta_2">A utilização de cobertura estéril previne as infecções de corrente sanguínea</string>
+    <string name="pergunta_8_resposta_3">O uso de fita microporosa não é permitida, pois a mesma não é estéril</string>
+
+    <string name="pergunta_9">Na troca de infusões gordurosas (NPT) é correto afirmar:</string>
+    <string name="pergunta_9_resposta_certa">A cada nova instalação, devem ser trocados todos os
+        conectores e perfusores que estejam presentes na via utilizada, bem como, deve ser realizado
+        o flushing na via e a correta identificação dos mesmos</string>
+    <string name="pergunta_9_resposta_1">A cada nova instalação, devem ser trocados todos os
+        conectores e perfusores que estejam presentes na via utilizada, bem como deve ser feito
+        a correta identificação dos mesmos</string>
+    <string name="pergunta_9_resposta_2">Não é necessária a realização de lavagem da via (flushing)</string>
+    <string name="pergunta_9_resposta_3">A troca dos conectores e perfusores utilizados nesta via,
+        pode ficar a critério da enfermeira responsável pela instalação da nova bolsa</string>
+
+    <string name="pergunta_10">Recomenda-se que seja realizada a troca dos conectores sem agulha após qualquer coleta de sangue.</string>
+    <string name="pergunta_10_resposta_certa">Não, recomenda-se a troca somente se após a coleta de sangue o dispositivo ainda apresentar sujidade, ou no caso de hemoculturas, a troca deve ser realizada previamente a coleta.</string>
+    <string name="pergunta_10_resposta_1">Sim, os dispositivos Microclave® devem ser trocados sempre após as coletas sanguíneas</string>
+    <string name="pergunta_10_resposta_2">Não, somente após as coletas de culturas sanguíneas</string>
+    <string name="pergunta_10_resposta_3">Sim, mas essa troca deve ser realizada antes da coleta de sangue</string>
+
+
     <string name="finalizar_jogo">Finalizar jogo</string>
 
 </resources>

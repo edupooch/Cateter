@@ -23,7 +23,6 @@
             android:layout_marginBottom="15dp">
 
             <TextView
-
                 android:id="@+id/text_num_pergunta"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -37,7 +36,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="#fff"
-                android:textSize="28sp" />
+                android:textSize="22sp" />
 
         </LinearLayout>
 

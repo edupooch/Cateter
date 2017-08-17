@@ -12,19 +12,53 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".AprendendoActivity"
-            android:label="@string/aprendendo" />
-        <activity android:name=".IcsCvcActivity" />
-        <activity android:name=".AvaliandoActivity" />
-        <activity android:name=".OutrasInfoActivity" />
-        <activity android:name=".EducandoActivity" />
-        <activity android:name=".QuizActivity"/>
-        <activity android:name=".quiz.JogoActivity"
+            android:label="@string/aprendendo">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.edu.ufcspa.cateter.MainActivity" />
+        </activity>
+        <activity
+            android:name=".IcsCvcActivity"
+            android:label="ICS/CVC">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.edu.ufcspa.cateter.MainActivity" />
+        </activity>
+        <activity
+            android:name=".AvaliandoActivity"
+            android:label="Avaliação de Cateteres">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.edu.ufcspa.cateter.MainActivity" />
+        </activity>
+        <activity
+            android:name=".OutrasInfoActivity"
+            android:label="Outras Informações">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.edu.ufcspa.cateter.MainActivity" />
+        </activity>
+        <activity
+            android:name=".EducandoActivity"
+            android:label="Educando sua Equipe">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.edu.ufcspa.cateter.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity"
+            android:label="Quiz">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.edu.ufcspa.cateter.MainActivity" />
+        </activity>
+        <activity
+            android:name=".quiz.JogoActivity"
             android:theme="@style/AppTheme.NoActionBar">
 
         </activity>
