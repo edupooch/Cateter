@@ -19,8 +19,7 @@
         \n\nPasso-a-passo da higienização das mãos com preparação alcoólica:</string>
     <string name="cateteres">Cateteres venosos centrais (CVC) são dispositivos utilizados para infusão de fluídos cuja sua ponta localiza-se numa veia de grosso calibre.  Normalmente esta veia é a veia cava ou a junção cavoatrial (junção entre veia cava e átrio direito), situada em região torácica, como apresentado na imagem abaixo:</string>
     <string name="cateteres2">Mas atenção:
-        \n\nOutros locais também podem comportar a ponta do cateter, por exemplo o átrio direito, o que é muito comum entre os pacientes portadores do Cateter de Shilley  - utilizado para realização de hemodiálise e que necessita de alto fluxo sanguíneo.
-</string>
+        \n\nOutros locais também podem comportar a ponta do cateter, por exemplo, o átrio direito. Essa localização de ponta é muito comum entre os pacientes que possuem cateter de Shilley - utilizado para a realização de hemodiálise.</string>
     <string name="cateteres3">Os materiais utilizados na fabricação dos cateteres influenciam diretamente na ocorrência das complicações.  Os materiais mais comuns de fabricação de cateteres são o poliuretano e silicone. Outros materiais são também utilizados, mas com menos frequência, como a poliamida, o poliéster e o politetrafluoretileno.</string>
     <string name="poliuretano">Os cateteres flexíveis, como os de poliuretano são associados a
         menores complicações infecciosas e contribuem significativamente para a redução de flebites.
@@ -30,7 +29,7 @@
         Além disso, permite a mobilidade do paciente quando inserido em articulações,
         reduzindo assim o risco de flebite mecânica.
     \n\n<b>Importante Saber:</b>
-        \nCateteres de Poliuretano não devem permanecer no interior de incubadoras e berços aquecidos
+        \nCateteres de poliuretano não devem permanecer no interior de incubadoras e berços aquecidos
         durante o processo de escolha da veia e antissepsia da pele, pois a exposição à temperatura
         desses ambientes poderá deixá-los mais flexíveis e dificultar sua inserção.
     </string>
@@ -39,25 +38,24 @@
         O silicone é comumente utilizado em cateteres de longa duração como PICC, cateteres tuneilizados e totalmente implantáveis, mas também em cateteres venosos centrais temporários.
         \nÉ considerado um material mais resistente a dobras, mais flexível e com maior estabilidade a longo prazo quando comparado aos cateteres de poliuretano.
         \nEste material tem estabilidade térmica, química e enzimática, porém apresenta resistência à pressão limitada, necessitando de cuidados especiais quando usado em cateteres centrais de inserção periférica.
-        \n\n<b>Atenção:</b> estes cateteres são frágeis e por isso devem ser manipulados com cuidado. Pinças, clamps e instrumentos cortantes podem danificá-lo.
-        \n\n<b>Atenção:</b>estes cateteres não podem ser conectados a bombas de alta pressão, como as utilizadas para a administração de contraste.
+        \n\n<b>Atenção:</b> estes cateteres são frágeis e por isso devem ser manipulados com cuidado. Pinças, clamps e instrumentos cortantes podem danificá-los.
+        \n\n<b>Atenção:</b> estes cateteres não podem ser conectados a bombas de alta pressão, como as utilizadas para a administração de contraste.
     </string>
 
     <string name="cateteres4"><b>Curta Permanência</b>
-        \n\nSão aqueles inseridos para tratamentos de 21 dias ou menos. São inserido percutaneamente em veias centrais (jugulares internas, femorais ou subclávias) e podem variar quanto a quantidade de lúmens, desde um até três lúmens.
+        \n\nSão aqueles inseridos para tratamentos de 21 dias ou menos. São inseridos percutaneamente em veias centrais (jugulares internas, femorais ou subclávias) e podem variar quanto a quantidade de lúmens, desde um até três lúmens.
         É o tipo de CVC mais utilizado.
     </string>
     <string name="cateteres5">Indicações:
-    \n\n-Pacientes sem condições de acesso periférico e que necessitem de 21 ou menos dias de terapia
+    \n\n- Pacientes sem condições de acesso periférico e que necessitem de 21 ou menos dias de terapia
     endovenosa.
-    \n-Necessidade de monitoração hemodinâmica (medida PVC).
-    \n-Administração rápida de drogas, volume e derivados em pacientes instáveis hemodinamicamente ou
-    \n-que possam evoluir para instabilidade.
-    \n-Acesso imediato para hemodiálise.
-    \n-Administração de soluções que não podem ser administradas por via periférica.
-    \n-Administração concomitante de drogas incompatíveis (por meio de cateter com múltiplos lúmens).
+    \n- Necessidade de monitoração hemodinâmica (medida PVC).
+    \n- Administração rápida de drogas, volume e derivados em pacientes instáveis hemodinamicamente ou que possam evoluir para instabilidade.
+    \n- Acesso imediato para hemodiálise.
+    \n- Administração de soluções que não podem ser administradas por via periférica.
+    \n- Administração concomitante de drogas incompatíveis (por meio de cateter com múltiplos lúmens).
         \n\n\n<b>PICC</b>
-        \nÉ um cateter venoso central inserido em uma veia periférica, por exemplo, veia basílica, veia safena, entre outras.
+        \n\nÉ um cateter venoso central inserido em uma veia periférica, por exemplo, veia basílica, veia safena, entre outras.
         \n\nEste tipo de cateter pode ser inserido por enfermeiros, desde que os mesmos tenham devida qualificação para tal prática.
         \n\nTambém podem variar conforme seu número de vias, podem ser mono, duplo ou triplo lúmen.
 
@@ -67,8 +65,8 @@
         \n\nEm pacientes adultos: dar preferência pela veia basílica, cefálica e braquial.
         \n\nEm pacientes pediátricos e neonatais: podem ser consideradas as veias axilares, veia temporal e auricular posterior (cabeça) e veia safena e poplítea (membros inferiores).
 
-        <b>Cateter semi-implantáveis ou tunelizados</b>
-        \nEles podem ser de lúmen único, duplo ou triplo.
+        \n\n<b>Cateter semi-implantáveis ou tunelizados</b>
+        \n\nEles podem ser de lúmen único, duplo ou triplo.
         \nSão implantados cirurgicamente, com um túnel subcutâneo e um “cuff de dracon” próximo ao sítio de exteriorização, que inibe a migração
         de micro-organismos e estimula a aderência ao tecido subjacente, selando o túnel.
         \n\nSua indicação principal são os pacientes onco-hematológicos,  portadores de insuficiência renal (diálise programada por mais de 21 dias) e em pacientes em nutrição parenteral prolongada.
@@ -81,11 +79,11 @@
     <string name="cateteres7">
         <b>Cateter Totalmente Implantável</b>
         \n\nTambém conhecido como Port.
-        \nÉ implantado cirurgicamente e acessado por punção através da pele íntegra; possui um reservatório subcutâneo com septo auto-selante em um túnel abaixo da pele.
+        \nÉ implantado cirurgicamente e acessado por punção através da pele íntegra. Possui um reservatório subcutâneo com septo auto-selante em um túnel abaixo da pele.
         \n\nSão recomendados para pacientes onco-hematológicos ou em nutrição parenteral, além de outras indicações que necessitem de acesso seguro por períodos prolongados.
         \n\nTambém podem permanecer por meses e anos.
         \n\nLocais de inserção: os reservatórios são implantados em uma loja subcutânea, geralmente na região peitoral entre o esterno e o mamilo. A escolha faz-se entre veia jugular ou subclávia.
-        \n\nA punção do reservatório deve ser realizada com agulha angulada própria para uso na membrana do reservatório (agulha tipo Huber).
+        \n\nA punção do reservatório deve ser realizada com agulha própria para este procedimento (agulha tipo Huber).
         \n\nNão utilize outras agulhas para punção!
 
     </string>
@@ -105,23 +103,24 @@
         \nRolos de fitas adesivas não estéreis podem ser facilmente contaminadas com microrganismos patogênicos.
         \n\n<b>E o uso de sutura?</b>
         \nSuturas estão associadas a acidentes percutâneos, favorecem a formação de biofilme e aumentam o risco de IPCS.
-        \n\n<b>Então o que usar?</b>
+         \n\n<b>Então o que usar?</b>
         \nAtualmente é preferível a utilização dos dispositivos de fixação sem sutura, que são dispositivos de tecido, isentos de látex, que fornecem a fixação do cateter, proporcionando conforto e segurança ao paciente.
-        \n\n<b>Como eles funcionam?</b>
-        \nOs fixadores de cateteres sem sutura são dispositivos estéreis que permitem a fixação do cateter através da adesão dos mesmos à pele do paciente, isto evita o movimentos de pistão e consequentes deslocamentos acidentais do cateter. Além disso, a área de fixação pode ser mudada conforme houver necessidade, é fácil de realizar sua troca e não acarreta em desconfortos.
+    </string>
+    <string name="estabiliza2">
+        <b>Como eles funcionam?</b>
+        \nOs fixadores de cateteres sem sutura são dispositivos estéreis que permitem a fixação do cateter através da adesão dos mesmos à pele do paciente, isto evita os movimentos de pistão e consequentes deslocamentos acidentais do cateter. Além disso, a área de fixação pode ser mudada conforme houver necessidade, é fácil de realizar sua troca e não acarreta em desconfortos.
         \n\nOs dispositivos de fixação sem sutura evitam a ruptura em torno do local de entrada do cateter e podem diminuir o grau de colonização bacteriana. O uso de um dispositivo de fixação sem sutura também minimiza o risco de lesões provocadas por perfurocortantes ao profissional de saúde.
-        \nPara utilização dos mesmos, você deve primeiramente, proceder a antissepsia da pele (ver realização do curativo), quando a Clorexidina Alcoólica 0,5% estiver totalmente seca, proceder o encaixe das abas de sutura junto ao dispositivo de fixação.
+        \n\nPara utilização dos mesmos, você deve primeiramente proceder a antissepsia da pele (ver realização do curativo), quando a Clorexidina Alcoólica 0,5% estiver totalmente seca, proceder o encaixe das abas de sutura junto ao dispositivo de fixação.
         \nApós deve-se fechar o dispositivo, de maneira que a aba de fixação fique presa. Agora você já pode realizar a fixação do dispositivo junto a pele do paciente, retirando as fitas que ficam na parte inferior do dispositivo, liberando sua cola adesiva.
-
     </string>
     <string name="cobertura">
         O termo cobertura, refere-se ao curativo a ser realizado sobre o CVC.
         \n\nOs propósitos de usar coberturas são:
-        \nProteger o sítio de inserção do cateter e
-        \nMinimizar a possibilidade de infecção.
+        \n- Proteger o sítio de inserção do cateter;
+        \n- Minimizar a possibilidade de infecção.
 
         \n\nOs tipos de cobertura são:
-        \n\n<b>Semioclusiva</b> – gaze e fita adesiva estéril
+        \n\n<b>Semioclusiva</b>
         \nRefere-se a utilização de gaze e fita adesiva estéril.
         \nOrienta-se o uso deste tipo de cobertura apenas em casos de sangramentos em sítio de inserção ou diaforese excessiva.
         \nNestes casos, recomenda-se a troca da cobertura a cada 48 horas.
@@ -137,9 +136,9 @@
     </string>
 
     <string name="troca" formatted="false"><b>Para realizar a troca do curativo você precisará:</b>
-        \n\n- 1 almotolia de Clorexidina 0,5% fechada;
+        \n\n- 1 almotolia de Clorexidina Alcoólica 0,5% fechada;
         \n- Mesinha auxiliar;
-        \n- Produto utilizado para limpeza de superfícies (multibac, álcool ou outra padronizado no seu local de atuação));
+        \n- Produto utilizado para limpeza de superfícies (multibac, álcool ou outra padronizado no seu local de atuação);
         \n- Máscaras;
         \n- 2 pares de luvas;
         \n- Kit curativo ou 1 par de luva estéril;
@@ -159,41 +158,40 @@
         \n\n5º Coloque a máscara em você e no paciente.
         \n\n6º Abra o kit de curativo com cuidado para não contaminar seu interior, abra os seguintes materiais dentro do mesmo: gaze, curativo e o fixador do dispositivo.
         \n\n7° Posicione o paciente de maneira que consiga acessar a região de inserção do curativo e que também mantenha o conforto do mesmo.
-        \n\n8° Realize a antissepsia da almotolia de Clorexidina Alcoólica 0,5% utilizando o swab alcoólico.
+        \n\n8° Realize a antissepsia da almotolia de Clorexidina Alcoólica 0,5% utilizando o swab alcoólico antes de abrí-la.
         \n\n9º Deixe próximo a você o saquinho para desprezar os materiais contaminados.
         \n\n10° Higienize suas mãos novamente.
         \n\n11° Calce as luvas de procedimento.
-        \n\n12° Utilizando o swab contendo o removedor de adesivo proceda a remoção do mesmo - primeiramente iniciando pelas laterais, sentido ao centro.
+        \n\n12° Utilizando o swab contendo o removedor de adesivo proceda a remoção do curativo a ser trocado - primeiramente iniciando pelas laterais, sentido ao centro.
         \n\n13° Removido o curativo, realize a retirada do fixador do dispositivo (caso haja).
         \n\n14° Retire as luvas e higienize novamente suas mãos.
-        \n\n15° Utilizando as pinças do kit do curativo realize a limpeza do sítio de inserção e da área ao redor do mesmo - faça movimentos de vai e vem, limpando cada área por no mínimo 30 segundos.
-        \n\n16° Deixe secar totalmente a Clorexidina Alcoólica 0,5%..
-        \n\n17° Aplique o protetor cutâneo sob a área que será coberta com o curativo e espere o mesmo secar. Importante: não aplique o protetor cutâneo sob a área de inserção do cateter. .
-        \n\n18° Instale o dispositivo de fixação de cateter.
-        \n\n19° Proceda a aplicação da cobertura;
-        \n\n20° Retire as luvas e higienize as mãos.
-        \n\n21° Realize a identificação do curativo - coloque a data de realização do curativo e o seu nome.
+        \n\n15° Calce um novo par de luvas de procedimento.
+        \n\n16° Utilizando as pinças do kit do curativo realize a limpeza do sítio de inserção e da área ao redor do mesmo - faça movimentos de vai e vem, limpando cada área por no mínimo 30 segundos.
+        \n\n17° Deixe secar totalmente a Clorexidina Alcoólica 0,5%.
+        \n\n18° Aplique o protetor cutâneo sob a área que será coberta com o curativo e espere o mesmo secar. Importante: não aplique o protetor cutâneo sob a área de inserção do cateter.
+        \n\n19° Instale o dispositivo de fixação de cateter.
+        \n\n20° Proceda a aplicação da cobertura.
+        \n\n21° Retire as luvas e higienize as mãos.
+        \n\n22° Realize a identificação do curativo - coloque a data de realização do curativo e o seu nome.
         </string>
 
-    <string name="cobertura3"> Caso você não tenha disponível o kit de curativo com as pinças
-        necessárias para a realização do curativo, é possível realizá-lo com o uso de luvas estéreis.
-        Desta maneira, você estará mantendo a técnica asséptica.
-        <b>\n\nOrientações durante o banho</b>
+    <string name="cobertura3">
+        <b>\nOrientações durante o banho</b>
         \n\nDurante o banho é importante proteger o sítio de inserção e as conexões com plástico ou outro material impermeável.
         \n\nNão esqueça que mesmo o curativo realizado com membrana transparente semipermeável deve ser devidamente protegido.
 
 
 </string>
     <string name="scrub">Uma das medidas mais eficientes de manutenção de cateteres venosos centrais
-        é a desinfecção dos hubs (canhões), dânulas e conectores antes da administração de produtos
-        endovenosos.
+        é a desinfecção dos hubs (canhões), dânulas e conectores antes de qualquer manipulação.
+
         \n\n<b>Como realizar o scrub de hub?</b>
-        \n\nHigienize suas mãos.
-        \nCalce luvas de procedimento.
-        \nEsfregue adequadamente o hub com solução alcoólica 70% por 5-15 segundos, realizando momentos de torção, gerando a fricção.
-        \nCertifique-se de esfregar também a parte superior do hub, não apenas suas laterais.
-        \nDeixe o hub secar antes de acessá-lo.
-        \nImportante: impeça que ele toque qualquer coisa durante a secagem.
+        \n\n- Higienize suas mãos.
+        \n- Calce luvas de procedimento.
+        \n- Esfregue adequadamente o hub com solução alcoólica 70% por 5-15 segundos, realizando movimentos de torção, gerando fricção.
+        \n- Certifique-se de esfregar também a parte superior do hub, não apenas suas laterais.
+        \n- Deixe o hub secar antes de acessá-lo.
+        \n\nImportante: impeça que ele toque qualquer coisa durante a secagem.
 
         \n\nPara assistir a técnica de scrub the hub, acesse
         \nhttps://www.youtube.com/watch?v=Zcjr-SLGCeU
@@ -225,7 +223,7 @@
 
         \n\n<b>Pressão positiva:</b>
         \nUtilize técnica de pressão positiva pois a mesma diminui o retorno de sangue para o lúmen do cateter.
-        \nFaça da seguinte maneira:
+        \n\nFaça da seguinte maneira:
         \n\nRealize o flushing → feche o clamp → desconecte a seringa.
         \n\nEm casos de conectores sem agulha que trabalhem com pressão positiva o fechamento do clamp não é necessário
 
@@ -253,23 +251,22 @@
 
 
     </string>
-    <string name="infusao2">Porque utilizar?
-        \n\n - reduzem o risco de obstrução do cateter;
-        \n - diminuir risco de infecção de corrente sanguínea uma vez que mantém sistema fechado;
-        \n - proporcionam maior segurança durante o manuseio do cateter.
+    <string name="infusao2">Por que utilizar?
+        \n\n - Reduzem o risco de obstrução do cateter.
+        \n - Diminuem o risco de infecção de corrente sanguínea uma vez que mantém o sistema fechado.
+        \n - Proporcionam maior segurança durante o manuseio do cateter.
 
         \n\nComo utilizar?
         \n\n - Realizar a desinfecção dos conectores antes de cada acesso ou manipulação com solução antisséptica à base de álcool.
-        \n - os conectores devem ser trocados imediatamente em caso de desconexão do cateter ou sistema de infusão, presença de sangue ou outra sujidade.
+        \n - Os conectores devem ser trocados imediatamente em caso de desconexão do cateter ou sistema de infusão, presença de sangue ou outra sujidade.
         \n - Trocar os conectores junto com as trocas do sistema de infusão.
 
         \n\nCaso seja necessária a utilização das dânulas, seguir a seguinte recomendação:
-        \n\n - trocar as dânulas junto com o sistema de infusão.
-        \n - possuir sistema de conexão luer lock.
-        \n - Utilizar tampas estéreis novas a cada uso da vida.
-
-
+        \n\n - Trocar as dânulas junto com o sistema de infusão.
+        \n - Possuir sistema de conexão luer lock.
+        \n - Utilizar tampas estéreis novas a cada uso da via.
 </string>
+
     <string name="infusao3">A troca dos equipos e dispositivos complementares é baseada em alguns
         fatores, como tipo de solução utilizada, frequência da infusão (contínuo ou intermitente),
         suspeita de contaminação ou quando a integridade do produto ou sistema estiver comprometida.
@@ -283,10 +280,10 @@
         \n\nCaso seja necessária a desconexão de algum equipo, você deve utilizar uma capa protetora estéril (tampinha) e não agulhas.
 
         \n\nIMPORTANTE:
-        \né de extrema importância que você oriente sua equipe a datar o sistema de infusão.
-        \nisso facilita o controle diário da necessidade de troca do mesmo, portanto é necessário
+        \nÉ de extrema importância que você oriente sua equipe a datar o sistema de infusão. Isso
+        facilita o controle diário da necessidade de troca do mesmo, portanto é necessário
         que o sistema infusional seja datado, preferencialmente com a data em que foi realizada a troca do sistema.
-        \n\nPara infusões de NPT o equipo e conector sem agulha deve ser trocado a cada bolsa.
+        \n\nPara infusões de NPT - o equipo e conector sem agulha devem ser trocados a cada bolsa.
         \n\nPara infusões de soluções lipídicas a troca deve ser realizada a cada 12 horas.
         \n\nNas infusões de Propofol recomenda-se a troca do sistema infusional de 6-12 horas (o que varia de acordo com o fabricante).
         \n\nPara infusão de hemoderivados deve-se proceder a troca do sistema de infusão a cada bolsa.
@@ -302,30 +299,32 @@
         \n\nO selamento refere-se a utilização de substâncias com propriedades antibacterianas ou antifúngicas, já utilizadas em alguns hospitais regionais (ver Lock do cateter).
 
     </string>
+
+    <string name="fisiopatologia_da_ics_cvc">Fisiopatologia da ICS/CVC</string>
     <string name="icscvc">Uma das maiores complicações associadas ao uso do cateter venoso central é a infecção de corrente sanguínea decorrente do uso do mesmo e estão intimamente relacionadas à assistência em saúde.</string>
     <string name="icscvc2">
         \n - Extraluminal
         \n - Intraluminal
         \n - Infusão de Soluções Contaminadas
-        \n - Disseminação hematogênica
+        \n - Disseminação Hematogênica
 </string>
     <string name="icscvc3">A ICS está associada ao aumento da mortalidade, prolongamento do tempo de internação e custo hospitalares.
-        \n\nHá registro que dentro das unidades de terapia intensiva americanas a ICS pode chegar a 69% dos casos de óbito, no Brasil acredita-se que estes números sejam ainda mais expressivos.
+        \n\nHá registros que dentro das unidades de terapia intensiva americanas a ICS pode chegar a 69% dos casos de óbito, no Brasil acredita-se que estes números sejam ainda mais expressivos.
         \n\nEm relação aos custos, um estudo americano apontou um gasto extra de U$ 50.000 por episódio de infecção.
 
         \n\nAtrasar a troca da cobertura quando a mesma já perdeu sua integridade pode estar associada ao aumento do risco de IPCS.
-
 </string>
+
     <string name="avaliando">A avaliação do sítio de inserção é um cuidado essencial da equipe de enfermagem.
         \nRecomenda-se no mínimo que uma vez ao dia o sítio de inserção dos cateteres centrais seja avaliado, por meio de inspeção visual e palpação sobre o curativo intacto.
-        \n\nSe os pacientes tiverem hipersensibilidade no local de inserção, febre sem fonte óbvia ou outras manifestações que sugerem infecção local ou sangüínea, o curativo deve ser removido para permitir o exame completo do local
+        \n\nSe os pacientes tiverem hipersensibilidade no local de inserção, febre sem fonte óbvia ou outras manifestações que sugerem infecção local ou sangüínea, o curativo deve ser removido para permitir o exame completo do local.
         \n\nDurante a avaliação do cateter é importante que todo sistema infusional seja avaliado também.
         \nPor exemplo, datas de equipos e conectores devem ser observadas, bem como horário de início das infusões.
         \n\nSujidades nas linhas de infusão requerem a troca imediata dos mesmos.
 
     </string>
     <string name="avaliando2">A cobertura que você esta avaliando encontra-se:
-        <b>\n\na)Está parcialmente descolada, mas seca, limpa e o sítio de inserção não tem sinais flogísticos:</b>
+        <b>\n\na) Está parcialmente descolada, mas seca, limpa e o sítio de inserção não tem sinais flogísticos:</b>
         \nDevido a cobertura estar descolando, recomenda-se a troca do curativo → ver troca do curativo.
         <b>\n\nb) Está intacta, seca, limpa e o sítio de inserção esta apresentando eritema:</b>
         \nVocê pode observar o eritema, não é necessária a troca do curativo, mas recomenda-se que você comunique a equipe médica quanto aos sinais flogísticos encontrados.
@@ -337,24 +336,24 @@
 
     <string name="avaliando3">
         <b>a) O curativo foi realizado com filme transparente semipermeável, esta datado, com data de última troca inferior a sete dias, o curativo não esta descolando e nem úmido:</b>
-        \nmantenha este curativo, sua troca deve ser realizada a cada 7 dias se a cobertura se mantiver nestas condições.
+        \nMantenha este curativo, sua troca deve ser realizada a cada 7 dias se a cobertura se mantiver nestas condições.
         <b>\n\nb) A cobertura foi realizada com gaze e fita adesiva estéril, datado do dia anterior, mas apresenta sujidade sanguínea na gaze que esta sobre a inserção: </b>
-        \nneste caso você deve proceder a troca do curativo, não deixe para realizá-la posteriormente, isto poderá aumentar o risco de infecção relacionada ao cateter.
+        \nNeste caso você deve proceder a troca do curativo, não deixe para realizá-la posteriormente, isto poderá aumentar o risco de infecção relacionada ao cateter.
         <b>\n\nc) A cobertura foi realizada com gaze e fita adesiva estéril, datado do dia atual, encontra-se limpo externamente, seca e intacta: </b>
-        \nmantenha este curativo por até 48 horas, mas observe possíveis sangramentos, úmidade e outras complicações as quais seja necessária a sua troca.
+        \nMantenha este curativo por até 48 horas, mas observe possíveis sangramentos, úmidade e outras complicações.
         <b>\n\nd) Curativo realizado com filme transparente, seco, intacto, bem aderido, mas com data de 8 dias atrás:</b>
-        \na validade da cobertura com filme transparente é de 7 dias, você deve proceder a troca do curativo.
+        \nA validade da cobertura com filme transparente é de 7 dias, você deve proceder a troca do curativo.
     </string>
 
     <string name="avaliando4">
-        <b>a)Todo o sistema infusional está datado e não há sinais de sujidade sanguínea: </b>
-        \nvocê deve manter o sistema infusão, não esqueça de observar as particularidade para troca de sistemas de infusões contínuas, intermitentes e as indicações especiais.
-        <b>\n\nb)Não há data nos sistemas de infusão ou nas soluções que estão sendo administradas: </b>
-        \nvocê deve proceder a troca de todo o sistema de infusão, mesmo que estas estejam limpas. É muito importante que o sistema de infusão seja datado, seguindo as orientações para cada solução administrada.
-        <b>\n\nc)Há sujidade sanguínea nas dânulas e conectores sem agulha, mas todo o sistema encontra-se dentro do prazo de validade: </b>
-        \nembora esteja datado corretamente você deve proceder a troca do sistema de infusão, uma vez que o acúmulo de sangue nas linhas de infusão pode aumentar consideravelmente o risco de infecção de corrente sanguínea.
-        <b>\n\nd)O sistema de infusão esta datado, não há sujidade nas linhas, mas ocorreu acidentalmente a desconexão de duas destas linhas: </b>
-        \nno caso de desconexão acidental você deve proceder a troca de todo sistema de infusão desconectado.
+        <b>a) Todo o sistema infusional está datado e não há sinais de sujidade sanguínea: </b>
+        \nVocê deve manter o sistema infusão, não esqueça de observar as particularidade para troca de sistemas de infusões contínuas, intermitentes e as indicações especiais.
+        <b>\n\nb) Não há data nos sistemas de infusão ou nas soluções que estão sendo administradas: </b>
+        \nVocê deve proceder a troca de todo o sistema de infusão, mesmo que estas estejam limpas. É muito importante que o sistema de infusão seja datado, seguindo as orientações para cada solução administrada.
+        <b>\n\nc) Há sujidade sanguínea nas dânulas e conectores sem agulha, mas todo o sistema encontra-se dentro do prazo de validade: </b>
+        \nEmbora esteja datado corretamente você deve proceder a troca do sistema de infusão, uma vez que o acúmulo de sangue nas linhas de infusão pode aumentar consideravelmente o risco de infecção de corrente sanguínea.
+        <b>\n\nd) O sistema de infusão esta datado, não há sujidade nas linhas, mas ocorreu acidentalmente a desconexão de duas destas linhas: </b>
+        \nNo caso de desconexão acidental você deve proceder a troca de todo sistema de infusão desconectado.
 </string>
     <string name="outrasinfo">Caso o cateter não seja mais necessário, converse com a equipe médica objetivando a remoção do mesmo.
         \n\nA via do acesso venoso central que se destina a infusão de NPT deve ser exclusiva.
@@ -366,7 +365,7 @@
         \n\nA manipulação dos hubs do cateter é uma atividade de responsabilidade do enfermeiro, assim como a realização do curativo, punção do cateter totalmente implantável e instalação de algumas soluções parenterais.
         \n\nFique atento durante a realização das coletas de sangue. Caso fique alguma sujidade sanguínea nos conectores sem agulha a sua troca faz-se necessário.
         \n\nPara a coleta de hemoculturas, recomenda-se a troca prévia dos conectores sem agulha.
-        \n\nO uso de sistemas e seringas com conexão Luer Lock, ou seja, que necessitem do movimento de giro para realização da conexão, possibilita maior segurança durante a conexão. Desta forma, não existe a possibilidade de desconexão acidental.
+        \n\nO uso de sistemas e seringas com conexão Luer Lock, ou seja, que necessitem do movimento de giro para realização da conexão, possibilita maior segurança durante o manuseio/uso. Desta forma, não existe a possibilidade de desconexão acidental.
         \n\nCaso o cateter tenha sido inserido em situação de emergência ou sem a utilização de barreira máxima protetora o mesmo deve ser trocado para outro sítio em menos de 48 horas.
         \n\nSe for necessário a remoção dos pelos próximos ao sítio de inserção, realize a tricotomia do local utilizando terouras ou tricotomizador elétrico, aparelhos de barbear aumentam o risco de infecção.
 
@@ -378,16 +377,15 @@
     </string>
     <string name="educando">
         É de extrema importância a educação dos profissionais envolvidos no cuidado e manutenção dos CVC, desta maneira:
-        \n\n - Certifique-se que os mesmos tenham tido as orientações necessárias previamente ao manuseio dos mesmos.
-        \n\n - Avalie constantemente o conhecimento destes,, bem como a adesão às medidas recomendadas para o manuseio do cateter, isto pode ser um diferencial no cuidado ofertado pela sua equipe.
-        \n\n - Deixe sempre em local de fácil acesso as diretrizes do seu local de trabalho que dizem respeito a prevenção das IPCS e manuseio de cateter.
+        \n\n - Certifique-se que os mesmos tenham tido as orientações necessárias previamente ao manuseio dos cateteres.
+        \n\n - Avalie constantemente o conhecimento destes, bem como a adesão às medidas recomendadas para o manuseio do cateter, isto pode ser um diferencial no cuidado ofertado pela sua equipe.
+        \n\n - Deixe sempre em local de fácil acesso as diretrizes do seu local de trabalho que dizem respeito a prevenção das IPCS e manuseio de cateteres.
 
-        \n\nDentro deste momento de aprendizagem podem ser incluídas atividades teóricas e práticas utilizando diversos materiais para tais. Se possível, aplique questionários pré e pós teste para posteriormente poder mensurar o ganho educacional obtido.
-        \n\nQuando houver mudança de produtos é MUITO importante que a equipe seja novamente orientada.
-        \n\nE não esqueça: o paciente e sua família devem também ser empoderados sobre os cuidados com o cateter. Eduque-os quanto ao correto manuseio e estes se tornarão aliados neste cuidado.
-        \n\nAlém disso, ao seu lado sempre estarão o Controle de Infecção Hospitalar e caso seu local de atuação tenha, um time de acessos venosos.
-
+        \n\n - Dentro deste momento de aprendizagem podem ser incluídas atividades teóricas e práticas utilizando diversos materiais para tais. Se possível, aplique questionários pré e pós teste para posteriormente poder mensurar o ganho educacional obtido.
+        \n\n - Quando houver mudança de produtos é MUITO importante que a equipe seja novamente orientada.
+        \n\n - E não esqueça: o paciente e sua família devem também ser empoderados sobre os cuidados com o cateter. Eduque-os quanto ao correto manuseio e estes se tornarão aliados neste cuidado.
     </string>
+
     <string name="proxima">Próxima</string>
     <string name="atencao_sair">Atenção</string>
     <string name="dialog_abandonar_voltar">Deseja abandonar o jogo?</string>
