@@ -16,9 +16,16 @@ public class QuizActivity extends AppCompatActivity {
     }
 
     public void iniciaQuiz1(View view) {
-        startActivity(new Intent(QuizActivity.this, JogoActivity.class));
+        chamaActivityQuiz(1);
     }
 
     public void iniciaQuiz2(View view) {
+        chamaActivityQuiz(2);
+    }
+
+    private void chamaActivityQuiz(int value) {
+        Intent intent = new Intent(QuizActivity.this, JogoActivity.class);
+        intent.putExtra("quiz", value);
+        startActivity(intent);
     }
 }

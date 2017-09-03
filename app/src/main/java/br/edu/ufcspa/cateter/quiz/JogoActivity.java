@@ -2,6 +2,7 @@ package br.edu.ufcspa.cateter.quiz;
 
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -43,7 +44,9 @@ public class JogoActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_jogo);
-        listaPerguntas = new ListaPerguntas(getApplicationContext()).getListaPerguntas();
+        Intent intent = getIntent();
+        int numeroQuiz = intent.getIntExtra("quiz", 1);
+        listaPerguntas = new ListaPerguntas(getApplicationContext(),numeroQuiz).getListaPerguntas();
         acertos = new boolean[listaPerguntas.size()];
 
         // Create the adapter that will return a fragment for each of the three

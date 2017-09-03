@@ -17,10 +17,74 @@ class ListaPerguntas {
     private List<Pergunta> listaPerguntasCamarao;
     private Context context;
 
-    ListaPerguntas(Context context) {
+    ListaPerguntas(Context context, int nQuiz) {
         listaPerguntasCamarao = new ArrayList<>();
         this.context = context;
+        if (nQuiz == 1){
+            criaQuiz1();
+        } else if (nQuiz == 2){
+            criaQuiz2();
+        }
 
+    }
+
+    private void criaQuiz2() {
+        criaPerguntaTexto(R.string.pergunta_2_1,
+                R.string.pergunta_2_1_resposta_certa,
+                R.string.pergunta_2_1_resposta_1,
+                R.string.pergunta_2_1_resposta_2,
+                R.string.pergunta_2_1_resposta_3);
+
+        criaPerguntaTexto(R.string.pergunta_2_2,
+                R.string.pergunta_2_2_resposta_1,
+                R.string.pergunta_2_2_resposta_2,
+                R.string.pergunta_2_2_resposta_certa,
+                R.string.pergunta_2_2_resposta_3);
+
+        criaPerguntaTexto(R.string.pergunta_2_3,
+                R.string.pergunta_2_3_resposta_1,
+                R.string.pergunta_2_3_resposta_certa,
+                R.string.pergunta_2_3_resposta_2,
+                R.string.pergunta_2_3_resposta_3);
+
+        criaPerguntaTexto(R.string.pergunta_2_4,
+                R.string.pergunta_2_4_resposta_1,
+                R.string.pergunta_2_4_resposta_2,
+                R.string.pergunta_2_4_resposta_3,
+                R.string.pergunta_2_4_resposta_certa);
+
+        criaPerguntaTexto(R.string.pergunta_2_5,
+                R.string.pergunta_2_5_resposta_certa,
+                R.string.pergunta_2_5_resposta_1,
+                R.string.pergunta_2_5_resposta_2,
+                R.string.pergunta_2_5_resposta_3);
+
+        criaPerguntaTexto(R.string.pergunta_2_6,
+                R.string.pergunta_2_6_resposta_certa,
+                R.string.pergunta_2_6_resposta_1);
+
+        criaPerguntaTexto(R.string.pergunta_2_7,
+                R.string.pergunta_2_7_resposta_certa,
+                R.string.pergunta_2_7_resposta_2,
+                R.string.pergunta_2_7_resposta_3,
+                R.string.pergunta_2_7_resposta_1);
+
+        criaPerguntaTexto(R.string.pergunta_2_8,
+                R.string.pergunta_2_8_resposta_1,
+                R.string.pergunta_2_8_resposta_certa,
+                R.string.pergunta_2_8_resposta_2,
+                R.string.pergunta_2_8_resposta_3);
+
+        criaPerguntaTexto(R.string.pergunta_2_9,
+                R.string.pergunta_2_9_resposta_1,
+                R.string.pergunta_2_9_resposta_certa);
+
+        criaPerguntaTexto(R.string.pergunta_2_10,
+                R.string.pergunta_2_10_resposta_1,
+                R.string.pergunta_2_10_resposta_certa);
+    }
+
+    private void criaQuiz1() {
         criaPerguntaTexto(R.string.pergunta_1,
                 R.string.pergunta_1_resposta_1,
                 R.string.pergunta_1_resposta_2,
@@ -70,7 +134,6 @@ class ListaPerguntas {
                 R.string.pergunta_10_resposta_2,
                 R.string.pergunta_10_resposta_3,
                 R.string.pergunta_10_resposta_certa);
-
     }
 
     private void criaPerguntaTexto(int resIdPergunta, int resIdResposta_1, int resIdResposta_2,

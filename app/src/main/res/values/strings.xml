@@ -447,6 +447,61 @@
     <string name="pergunta_10_resposta_2">Não, somente após as coletas de culturas sanguíneas</string>
     <string name="pergunta_10_resposta_3">Sim, mas essa troca deve ser realizada antes da coleta de sangue</string>
 
+    <string name="pergunta_2_1">Quem é responsável pela realização do curativo do acesso venoso central?</string>
+    <string name="pergunta_2_1_resposta_certa">Exclusivamente o enfermeiro</string>
+    <string name="pergunta_2_1_resposta_1">Técnico de enfermagem ou enfermeiro</string>
+    <string name="pergunta_2_1_resposta_2">Somente o técnico de enfermagem</string>
+    <string name="pergunta_2_1_resposta_3">Qualquer profissional ao qual o enfermeiro delegue este procedimento</string>
+
+    <string name="pergunta_2_2">Qual das alternativas abaixo caracteriza um cateter no qual a troca do curativo <b>não</b> é necessária?</string>
+    <string name="pergunta_2_2_resposta_certa">24 horas após inserção do cateter</string>
+    <string name="pergunta_2_2_resposta_1">Curativo úmido</string>
+    <string name="pergunta_2_2_resposta_2">Inserção do cateter apresentando drenagem</string>
+    <string name="pergunta_2_2_resposta_3">Abas do curativo descolando</string>
+
+    <string name="pergunta_2_3">Como deve ser realizada a cobertura dos cateteres venosos centrais?</string>
+    <string name="pergunta_2_3_resposta_certa">Filme transparente estéril ou gaze e fita estéril</string>
+    <string name="pergunta_2_3_resposta_1">Gaze estéril e fita microporosa</string>
+    <string name="pergunta_2_3_resposta_2">Conforme o profissional decidir</string>
+    <string name="pergunta_2_3_resposta_3">Conforme o paciente e familiar decidir</string>
+
+    <string name="pergunta_2_4">Se o curativo é realizado com gaze e fita estéril, após quanto tempo é efetuada sua troca?</string>
+    <string name="pergunta_2_4_resposta_certa">48/48 horas</string>
+    <string name="pergunta_2_4_resposta_1">7/7 dias</string>
+    <string name="pergunta_2_4_resposta_2">A critério do profissional que avalia</string>
+    <string name="pergunta_2_4_resposta_3">Troca diária</string>
+
+    <string name="pergunta_2_5">Se o curativo é realizado com filme transparente, após quanto tempo é efetuada sua troca?</string>
+    <string name="pergunta_2_5_resposta_certa">7/7 dias</string>
+    <string name="pergunta_2_5_resposta_1">Troca somente se sujidade</string>
+    <string name="pergunta_2_5_resposta_2">A critério do profissional que avalia</string>
+    <string name="pergunta_2_5_resposta_3">48/48 horas</string>
+
+
+    <string name="pergunta_2_6">É recomendado a avaliação diária do sítio de inserção, curativo e sistemas de infusão?</string>
+    <string name="pergunta_2_6_resposta_certa">Sim</string>
+    <string name="pergunta_2_6_resposta_1">Não</string>
+
+    <string name="pergunta_2_7">Como você julga a higienização das mãos antes da troca do curativo?</string>
+    <string name="pergunta_2_7_resposta_certa">Obrigatória</string>
+    <string name="pergunta_2_7_resposta_1">Desnecessária</string>
+    <string name="pergunta_2_7_resposta_2">De extrema importância</string>
+    <string name="pergunta_2_7_resposta_3">Facultativa</string>
+
+    <string name="pergunta_2_8" formatted="false">Para o manuseio do cateter, bem como de todo sistema infusional é necessário a fricção do Swab de Álcool 70% por quanto tempo?</string>
+    <string name="pergunta_2_8_resposta_certa">De 5–15 segundos</string>
+    <string name="pergunta_2_8_resposta_1">30 segundos</string>
+    <string name="pergunta_2_8_resposta_2">15 segundos</string>
+    <string name="pergunta_2_8_resposta_3">Não há necessidade de realizar a fricção dos mesmos</string>
+
+    <string name="pergunta_2_9">Para realizar administração de medicações pelo cateter venoso central é necessário realizar somente a lavagem em flushing após sua administração.</string>
+    <string name="pergunta_2_9_resposta_certa">Falso</string>
+    <string name="pergunta_2_9_resposta_1">Verdadeiro</string>
+
+    <string name="pergunta_2_10">A indicação é manter os cateteres venosos centrais o máximo de tempo possível, pois o paciente pode vir a precisar de medicações endovenosas.</string>
+    <string name="pergunta_2_10_resposta_certa">Falso</string>
+    <string name="pergunta_2_10_resposta_1">Verdadeiro</string>
+
 
     <string name="finalizar_jogo">Finalizar jogo</string>
 
